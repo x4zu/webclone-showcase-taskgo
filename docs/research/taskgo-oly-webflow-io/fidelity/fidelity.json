@@ -1,0 +1,216 @@
+{
+  "origin": "https://taskgo-oly.webflow.io",
+  "local": "http://localhost:3130",
+  "minFidelity": 90,
+  "widths": [
+    1440,
+    768,
+    390
+  ],
+  "rows": [
+    {
+      "route": "/",
+      "slug": "home",
+      "pass": true,
+      "cells": [
+        {
+          "width": 1440,
+          "pass": true,
+          "fidelityPct": 97.91,
+          "score": 4.5,
+          "meanAbsDiff": 0.006848569112835508,
+          "heightDriftPct": 0,
+          "diff": "home\\screenshots\\visual-diff-1440.png"
+        },
+        {
+          "width": 768,
+          "pass": true,
+          "fidelityPct": 98.98,
+          "score": 4.5,
+          "meanAbsDiff": 0.002071185247170735,
+          "heightDriftPct": 0,
+          "diff": "home\\screenshots\\visual-diff-768.png"
+        },
+        {
+          "width": 390,
+          "pass": true,
+          "fidelityPct": 98.42,
+          "score": 4.5,
+          "meanAbsDiff": 0.0028905003145866933,
+          "heightDriftPct": 0,
+          "diff": "home\\screenshots\\visual-diff-390.png"
+        }
+      ]
+    },
+    {
+      "route": "/style-guide",
+      "slug": "style-guide",
+      "pass": true,
+      "cells": [
+        {
+          "width": 1440,
+          "pass": true,
+          "fidelityPct": 99.68,
+          "score": 5,
+          "meanAbsDiff": 0.0005731517407906394,
+          "heightDriftPct": 0,
+          "diff": "style-guide\\screenshots\\visual-diff-1440.png"
+        },
+        {
+          "width": 768,
+          "pass": true,
+          "fidelityPct": 99.43,
+          "score": 5,
+          "meanAbsDiff": 0.0009596151491949228,
+          "heightDriftPct": 0,
+          "diff": "style-guide\\screenshots\\visual-diff-768.png"
+        },
+        {
+          "width": 390,
+          "pass": true,
+          "fidelityPct": 99.02,
+          "score": 5,
+          "meanAbsDiff": 0.0016755670638236575,
+          "heightDriftPct": 0,
+          "diff": "style-guide\\screenshots\\visual-diff-390.png"
+        }
+      ]
+    },
+    {
+      "route": "/license",
+      "slug": "license",
+      "pass": true,
+      "cells": [
+        {
+          "width": 1440,
+          "pass": true,
+          "fidelityPct": 99.38,
+          "score": 5,
+          "meanAbsDiff": 0.0012078489479510793,
+          "heightDriftPct": 0,
+          "diff": "license\\screenshots\\visual-diff-1440.png"
+        },
+        {
+          "width": 768,
+          "pass": true,
+          "fidelityPct": 99.04,
+          "score": 5,
+          "meanAbsDiff": 0.0017059421136633775,
+          "heightDriftPct": 0,
+          "diff": "license\\screenshots\\visual-diff-768.png"
+        },
+        {
+          "width": 390,
+          "pass": true,
+          "fidelityPct": 97.97,
+          "score": 4.5,
+          "meanAbsDiff": 0.0035597867621824306,
+          "heightDriftPct": 0,
+          "diff": "license\\screenshots\\visual-diff-390.png"
+        }
+      ]
+    },
+    {
+      "route": "/changelog",
+      "slug": "changelog",
+      "pass": true,
+      "cells": [
+        {
+          "width": 1440,
+          "pass": true,
+          "fidelityPct": 99.57,
+          "score": 5,
+          "meanAbsDiff": 0.0008755131284284155,
+          "heightDriftPct": 0,
+          "diff": "changelog\\screenshots\\visual-diff-1440.png"
+        },
+        {
+          "width": 768,
+          "pass": true,
+          "fidelityPct": 99.35,
+          "score": 5,
+          "meanAbsDiff": 0.0011766454372151033,
+          "heightDriftPct": 0,
+          "diff": "changelog\\screenshots\\visual-diff-768.png"
+        },
+        {
+          "width": 390,
+          "pass": true,
+          "fidelityPct": 98.74,
+          "score": 4.5,
+          "meanAbsDiff": 0.0023081687845236884,
+          "heightDriftPct": 0,
+          "diff": "changelog\\screenshots\\visual-diff-390.png"
+        }
+      ]
+    },
+    {
+      "route": "/401",
+      "slug": "401",
+      "pass": true,
+      "cells": [
+        {
+          "width": 1440,
+          "pass": true,
+          "fidelityPct": 99.54,
+          "score": 5,
+          "meanAbsDiff": 0.0007751504870323425,
+          "heightDriftPct": 0,
+          "diff": "401\\screenshots\\visual-diff-1440.png"
+        },
+        {
+          "width": 768,
+          "pass": true,
+          "fidelityPct": 99.34,
+          "score": 5,
+          "meanAbsDiff": 0.0010553862046542,
+          "heightDriftPct": 0,
+          "diff": "401\\screenshots\\visual-diff-768.png"
+        },
+        {
+          "width": 390,
+          "pass": true,
+          "fidelityPct": 98.75,
+          "score": 4.5,
+          "meanAbsDiff": 0.0020272778933102748,
+          "heightDriftPct": 0,
+          "diff": "401\\screenshots\\visual-diff-390.png"
+        }
+      ]
+    },
+    {
+      "route": "/404",
+      "slug": "404",
+      "pass": true,
+      "cells": [
+        {
+          "width": 1440,
+          "pass": true,
+          "fidelityPct": 99.61,
+          "score": 5,
+          "meanAbsDiff": 0.0007393874433451193,
+          "heightDriftPct": 0,
+          "diff": "404\\screenshots\\visual-diff-1440.png"
+        },
+        {
+          "width": 768,
+          "pass": true,
+          "fidelityPct": 99.47,
+          "score": 5,
+          "meanAbsDiff": 0.0008691059277065008,
+          "heightDriftPct": 0,
+          "diff": "404\\screenshots\\visual-diff-768.png"
+        },
+        {
+          "width": 390,
+          "pass": true,
+          "fidelityPct": 98.89,
+          "score": 4.5,
+          "meanAbsDiff": 0.0019037618888905652,
+          "heightDriftPct": 0,
+          "diff": "404\\screenshots\\visual-diff-390.png"
+        }
+      ]
+    }
+  ]
+}

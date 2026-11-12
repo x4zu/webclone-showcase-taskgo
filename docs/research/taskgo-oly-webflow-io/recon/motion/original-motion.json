@@ -1,0 +1,1459 @@
+{
+  "label": "original",
+  "url": "https://taskgo-oly.webflow.io/",
+  "capturedAt": "2026-11-12T04:52:44.763Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "samples": [
+    {
+      "position": 0,
+      "data": {
+        "scrollY": 0,
+        "scrollHeight": 8361,
+        "htmlScrollBehavior": "auto",
+        "htmlScrollSnap": "none",
+        "reducedMotionQuery": true,
+        "animations": [],
+        "transitions": [
+          {
+            "target": "a.nav-link.w-inline-block.w--current",
+            "property": "opacity, color",
+            "duration": "0.35s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.nav-link.w-inline-block",
+            "property": "opacity, color",
+            "duration": "0.35s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.nav-link.w-inline-block",
+            "property": "opacity, color",
+            "duration": "0.35s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.nav-link.w-inline-block",
+            "property": "opacity, color",
+            "duration": "0.35s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.nav-link.w-inline-block",
+            "property": "opacity, color",
+            "duration": "0.35s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "input.submit-button.w-button",
+            "property": "background-color",
+            "duration": "0.5s",
+            "timingFunction": "ease",
+            "delay": "0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block.w--current",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-link.w-inline-block",
+            "property": "transform, color",
+            "duration": "0.5s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footercontact-text.w-inline-block",
+            "property": "color",
+            "duration": "0.3s",
+            "timingFunction": "ease",
+            "delay": "0s"
+          },
+          {
+            "target": "div.footercontact-text",
+            "property": "color",
+            "duration": "0.3s",
+            "timingFunction": "ease",
+            "delay": "0s"
+          },
+          {
+            "target": "a.footercontact-text.w-inline-block",
+            "property": "color",
+            "duration": "0.3s",
+            "timingFunction": "ease",
+            "delay": "0s"
+          },
+          {
+            "target": "div.footercontact-text",
+            "property": "color",
+            "duration": "0.3s",
+            "timingFunction": "ease",
+            "delay": "0s"
+          },
+          {
+            "target": "a.footercontact-text.w-inline-block",
+            "property": "color",
+            "duration": "0.3s",
+            "timingFunction": "ease",
+            "delay": "0s"
+          },
+          {
+            "target": "div.footercontact-text",
+            "property": "color",
+            "duration": "0.3s",
+            "timingFunction": "ease",
+            "delay": "0s"
+          },
+          {
+            "target": "a.social-media-link-cover.w-inline-block",
+            "property": "background-color, opacity",
+            "duration": "0.2s, 0.2s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.social-media-link-cover.w-inline-block",
+            "property": "background-color, opacity",
+            "duration": "0.2s, 0.2s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.social-media-link-cover.w-inline-block",
+            "property": "background-color, opacity",
+            "duration": "0.2s, 0.2s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.social-media-link-cover.w-inline-block",
+            "property": "background-color, opacity",
+            "duration": "0.2s, 0.2s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-text-link",
+            "property": "color",
+            "duration": "0.35s",
+            "timingFunction": "ease",
+            "delay": "0s"
+          },
+          {
+            "target": "span.link",
+            "property": "color, border",
+            "duration": "0.35s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          },
+          {
+            "target": "a.footer-text-link",
+            "property": "color",
+            "duration": "0.35s",
+            "timingFunction": "ease",
+            "delay": "0s"
+          },
+          {
+            "target": "span.link",
+            "property": "color, border",
+            "duration": "0.35s, 0.35s",
+            "timingFunction": "ease, ease",
+            "delay": "0s, 0s"
+          }
+        ],
+        "keyframeRules": [
+          {
+            "name": "spin",
+            "css": "@keyframes spin { \n  0% { transform: rotate(0deg); }\n  100% { transform: rotate(360deg); }\n}"
+          }
+        ],
+        "gsap": {
+          "version": "3.15.0",
+          "tweens": [
+            {
+              "type": "Tween",
+              "duration": 0,
+              "delay": 0.2,
+              "ease": "[function]",
+              "targets": [
+                "[function]"
+              ],
+              "vars": {
+                "immediateRender": false,
+                "lazy": false,
+                "overwrite": false,
+                "delay": 0.2,
+                "onComplete": "[function]",
+                "onReverseComplete": "[function]",
+                "duration": 0,
+                "ease": "[function]"
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 0,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1.1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1.1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "each": 0.2
+              },
+              "targets": [
+                "div.teams-block",
+                "div.teams-block._02",
+                "div#w-node-c5643407-c973-9380-f427-b88a540990e2-68ae409d.teams-block._03",
+                "div#w-node-_6b23b4fd-fa8a-f239-9d27-26a1df2138a0-68ae409d.teams-block._04"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "each": 0.2
+                },
+                "ease": "none",
+                "y": "0%",
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "y": "40%",
+                  "skewX": "9deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 0.5,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.5,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "each": 0.2
+              },
+              "targets": [
+                "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878d2-68ae409d.review-1st-block-wrap"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "each": 0.2
+                },
+                "ease": "none",
+                "opacity": 1,
+                "scale": 1,
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0.5,
+                  "scale": 0.8
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.5,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "each": 0.2
+              },
+              "targets": [
+                "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878e5-68ae409d.review-small-crad"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "each": 0.2
+                },
+                "ease": "none",
+                "scale": 1,
+                "xPercent": 0,
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "scale": 1.1,
+                  "xPercent": -6
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.5,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "each": 0.2
+              },
+              "targets": [
+                "div.clinet-image-wrap"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "each": 0.2
+                },
+                "ease": "none",
+                "opacity": 1,
+                "scale": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0.35,
+                  "scale": 0.9,
+                  "skewX": "6deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.86,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.86,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 0.5,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.5,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "each": 0.2
+              },
+              "targets": [
+                "div.clinet-bottom-wrap"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "each": 0.2
+                },
+                "ease": "none",
+                "opacity": 1,
+                "scale": 1,
+                "skewX": "1deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0.35,
+                  "scale": 0.9,
+                  "skewX": "6deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.5,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "each": 0.2
+              },
+              "targets": [
+                "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878f4-68ae409d.review-small-crad"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "each": 0.2
+                },
+                "ease": "none",
+                "scale": 1,
+                "rotationX": "0deg",
+                "xPercent": 0,
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "scale": 1.1,
+                  "rotationX": "40deg",
+                  "xPercent": 11
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.5,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "each": 0.2
+              },
+              "targets": [
+                "div.review-info-wrap"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "each": 0.2
+                },
+                "ease": "none",
+                "opacity": 1,
+                "scale": 1,
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0.5,
+                  "scale": 0.8
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3",
+                "div.gsap_split_letter.gsap_split_letter4"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3",
+                "div.gsap_split_letter.gsap_split_letter4"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3",
+                "div.gsap_split_letter.gsap_split_letter4"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3",
+                "div.gsap_split_letter.gsap_split_letter4"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3",
+                "div.gsap_split_letter.gsap_split_letter4"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3",
+                "div.gsap_split_letter.gsap_split_letter4"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3",
+                "div.gsap_split_letter.gsap_split_letter4"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3",
+                "div.gsap_split_letter.gsap_split_letter4"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Timeline",
+              "duration": 1,
+              "delay": 0,
+              "targets": [],
+              "vars": {
+                "paused": true,
+                "reversed": false,
+                "data": "[object]",
+                "lazy": false
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 1,
+              "delay": 0,
+              "ease": "none",
+              "stagger": {
+                "amount": 0.5
+              },
+              "targets": [
+                "div.gsap_split_letter.gsap_split_letter1",
+                "div.gsap_split_letter.gsap_split_letter2",
+                "div.gsap_split_letter.gsap_split_letter3",
+                "div.gsap_split_letter.gsap_split_letter4"
+              ],
+              "vars": {
+                "force3D": true,
+                "data": "[object]",
+                "stagger": {
+                  "amount": 0.5
+                },
+                "ease": "none",
+                "opacity": 1,
+                "skewX": "0deg",
+                "parent": "[object]",
+                "immediateRender": true,
+                "startAt": {
+                  "opacity": 0,
+                  "skewX": "30deg"
+                },
+                "duration": 0.5,
+                "overwrite": false,
+                "delay": 0
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            },
+            {
+              "type": "Tween",
+              "duration": 0.8,
+              "delay": 0,
+              "ease": "expo",
+              "targets": [
+                "[object Object]"
+              ],
+              "vars": {
+                "ease": "expo",
+                "totalProgress": "+=0",
+                "inherit": false,
+                "duration": 0.8,
+                "paused": true,
+                "onComplete": "[function]"
+              }
+            }
+          ]
+        },
+        "scrollTriggers": [
+          {
+            "trigger": "div.heading-wraper.price",
+            "start": 4946.99,
+            "end": 4947,
+            "startVar": "clamp(top 80)",
+            "endVar": "clamp(bottom 90%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "div.teams-block",
+            "start": 1866,
+            "end": 2211,
+            "startVar": "clamp(90 bottom)",
+            "endVar": "clamp(bottom 90%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878d1-68ae409d.review-row-holder",
+            "start": 3753,
+            "end": 3810,
+            "startVar": "clamp(top 50%)",
+            "endVar": "clamp(bottom 80%)",
+            "scrub": 0.86,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "div.review-02-row-holder",
+            "start": 4109.99,
+            "end": 4110,
+            "startVar": "clamp(top 50%)",
+            "endVar": "clamp(bottom 90%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h2.heading-title.center",
+            "start": 281,
+            "end": 861,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h2.heading-title",
+            "start": 1443,
+            "end": 1958,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h3.heading-title",
+            "start": 1807,
+            "end": 2305,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h3.heading-title",
+            "start": 1847,
+            "end": 2345,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h3.heading-title",
+            "start": 1807,
+            "end": 2305,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h3.heading-title",
+            "start": 1847,
+            "end": 2345,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h2.heading-title",
+            "start": 2123,
+            "end": 2638,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h2.heading-title",
+            "start": 3044,
+            "end": 3623,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h2.heading-title",
+            "start": 4127,
+            "end": 4642,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h2.heading-title",
+            "start": 5118,
+            "end": 5633,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          },
+          {
+            "trigger": "h2.heading-title",
+            "start": 5453,
+            "end": 5968,
+            "startVar": "clamp(top bottom)",
+            "endVar": "clamp(bottom 50%)",
+            "scrub": 0.8,
+            "pin": false,
+            "toggleActions": "play none none none"
+          }
+        ],
+        "lenis": null,
+        "locomotive": null,
+        "snapContainers": [],
+        "sticky": [
+          {
+            "target": "div.hero-content-wrap",
+            "position": "sticky",
+            "top": "0px",
+            "zIndex": "auto"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "original": {
+    "width": 1440,
+    "height": 1792
+  },
+  "clone": {
+    "width": 1440,
+    "height": 1792
+  },
+  "comparedCanvas": {
+    "width": 1440,
+    "height": 1792
+  },
+  "threshold": 0.08,
+  "changedPixels": 11111,
+  "totalPixels": 2580480,
+  "diffPixelRatio": 0.004305788070436508,
+  "meanAbsDiff": 0.0008755131284284155,
+  "rmse": 0.012896551444721675,
+  "visualScore": 5,
+  "fidelityPct": 99.57,
+  "heightDriftPct": 0,
+  "files": {
+    "original": "C:\\Users\\habir\\Documents\\ShowcaseWebClone\\taskgo-oly-webflow-io-clone\\docs\\research\\taskgo-oly-webflow-io\\fidelity\\changelog\\screenshots\\original-1440.png",
+    "clone": "C:\\Users\\habir\\Documents\\ShowcaseWebClone\\taskgo-oly-webflow-io-clone\\docs\\research\\taskgo-oly-webflow-io\\fidelity\\changelog\\screenshots\\clone-1440.png",
+    "diff": "C:\\Users\\habir\\Documents\\ShowcaseWebClone\\taskgo-oly-webflow-io-clone\\docs\\research\\taskgo-oly-webflow-io\\fidelity\\changelog\\screenshots\\visual-diff-1440.png"
+  }
+}

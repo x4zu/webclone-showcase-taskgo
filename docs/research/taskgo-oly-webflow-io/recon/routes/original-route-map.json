@@ -1,0 +1,304 @@
+{
+  "label": "original",
+  "url": "https://taskgo-oly.webflow.io",
+  "capturedAt": "2026-11-12T04:48:14.190Z",
+  "maxPages": 60,
+  "maxDepth": 3,
+  "allowSubdomains": false,
+  "routes": [
+    {
+      "url": "https://taskgo-oly.webflow.io",
+      "from": "",
+      "depth": 0,
+      "status": 200,
+      "title": "TaskGo- TaskGo Webflow HTML Website Template",
+      "lang": "en",
+      "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+      "h1": [
+        "Simplify Task Management Boost Productivity"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Simplify Task Management Boost Productivity"
+        },
+        {
+          "tag": "h2",
+          "text": "Unlock Premium Benefits WithOur Advanced Features."
+        },
+        {
+          "tag": "h3",
+          "text": "Smart Task Organization"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Teams Choose TaskGo"
+        },
+        {
+          "tag": "h3",
+          "text": "40%"
+        },
+        {
+          "tag": "h3",
+          "text": "3×"
+        },
+        {
+          "tag": "h3",
+          "text": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "10k+"
+        },
+        {
+          "tag": "h2",
+          "text": "Get Started in Just 3 Easy Steps"
+        },
+        {
+          "tag": "h3",
+          "text": "01"
+        },
+        {
+          "tag": "h2",
+          "text": "Real Results, Real Impact.Our Success Stories"
+        },
+        {
+          "tag": "h3",
+          "text": "Milla Ass"
+        },
+        {
+          "tag": "h2",
+          "text": "Flexible Pricing For Every Team"
+        },
+        {
+          "tag": "h3",
+          "text": "Starter Plan"
+        },
+        {
+          "tag": "h3",
+          "text": "$49 / Per Hour"
+        },
+        {
+          "tag": "h3",
+          "text": "$99 / Per Hour"
+        },
+        {
+          "tag": "h3",
+          "text": "$29 / Per Hour"
+        },
+        {
+          "tag": "h3",
+          "text": "$89 / Per Hour"
+        },
+        {
+          "tag": "h2",
+          "text": "Effortless Tool Integrations"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions"
+        },
+        {
+          "tag": "h2",
+          "text": "Let’s create digital experiences that deliver results."
+        }
+      ],
+      "counts": {
+        "links": 39,
+        "images": 150,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 6
+      },
+      "linkCount": 39,
+      "screenshot": "screenshots\\taskgo-oly.webflow.io-f54c4538.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://taskgo-oly.webflow.io/style-guide",
+      "from": "https://taskgo-oly.webflow.io",
+      "depth": 1,
+      "status": 200,
+      "title": "Style Guide - TaskGo Webflow HTML Website Template",
+      "lang": "en",
+      "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+      "h1": [
+        "Style Guide",
+        "Heading - 1"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Style Guide"
+        },
+        {
+          "tag": "h2",
+          "text": "Font Style"
+        },
+        {
+          "tag": "h1",
+          "text": "Heading - 1"
+        },
+        {
+          "tag": "h2",
+          "text": "Heading - 2"
+        },
+        {
+          "tag": "h3",
+          "text": "Heading - 3"
+        },
+        {
+          "tag": "h2",
+          "text": "Colors"
+        },
+        {
+          "tag": "h3",
+          "text": "Primary Color"
+        },
+        {
+          "tag": "h2",
+          "text": "Button"
+        }
+      ],
+      "counts": {
+        "links": 31,
+        "images": 15,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 1
+      },
+      "linkCount": 31,
+      "screenshot": "screenshots\\taskgo-oly.webflow.io-style-guide-0213058d.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://taskgo-oly.webflow.io/license",
+      "from": "https://taskgo-oly.webflow.io",
+      "depth": 1,
+      "status": 200,
+      "title": "License - TaskGo Webflow HTML Website Template",
+      "lang": "en",
+      "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+      "h1": [
+        "License"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "License"
+        },
+        {
+          "tag": "h2",
+          "text": "Font"
+        },
+        {
+          "tag": "h3",
+          "text": "Inter Tight"
+        }
+      ],
+      "counts": {
+        "links": 32,
+        "images": 12,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 1
+      },
+      "linkCount": 32,
+      "screenshot": "screenshots\\taskgo-oly.webflow.io-license-4c3f6b24.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://taskgo-oly.webflow.io/changelog",
+      "from": "https://taskgo-oly.webflow.io",
+      "depth": 1,
+      "status": 200,
+      "title": "Changelog - TaskGo Webflow HTML Website Template",
+      "lang": "en",
+      "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+      "h1": [
+        "Changelog"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Changelog"
+        },
+        {
+          "tag": "h2",
+          "text": "Version 1.0Initial Release"
+        },
+        {
+          "tag": "h3",
+          "text": "January 15 , 2026"
+        }
+      ],
+      "counts": {
+        "links": 28,
+        "images": 12,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 1
+      },
+      "linkCount": 28,
+      "screenshot": "screenshots\\taskgo-oly.webflow.io-changelog-71e406bb.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://taskgo-oly.webflow.io/404",
+      "from": "https://taskgo-oly.webflow.io",
+      "depth": 1,
+      "status": 200,
+      "title": "404 - TaskGo Webflow HTML Website Template",
+      "lang": "en",
+      "metaDescription": "Medura  is a sleek and modern Webflow HTML website template built for startups, digital agencies, and creative professionals. With clean layouts, responsive design, and powerful customization options, Medura helps you build stunning websites that stand out and convert effortlessly.",
+      "h1": [],
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Error"
+        },
+        {
+          "tag": "h3",
+          "text": "Page Not Found!"
+        }
+      ],
+      "counts": {
+        "links": 29,
+        "images": 14,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 1
+      },
+      "linkCount": 29,
+      "screenshot": "screenshots\\taskgo-oly.webflow.io-404-448f3e5e.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "https://taskgo-oly.webflow.io/401",
+      "from": "https://taskgo-oly.webflow.io",
+      "depth": 1,
+      "status": 200,
+      "title": "Password - TaskGo Webflow HTML Website Template",
+      "lang": "en",
+      "metaDescription": "Medura is a sleek and modern Webflow HTML website template built for startups, digital agencies, and creative professionals. With clean layouts, responsive design, and powerful customization options, Medura helps you build stunning websites that stand out and convert effortlessly.",
+      "h1": [],
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Locked Content"
+        }
+      ],
+      "counts": {
+        "links": 28,
+        "images": 12,
+        "canvas": 0,
+        "forms": 1,
+        "buttons": 1
+      },
+      "linkCount": 28,
+      "screenshot": "screenshots\\taskgo-oly.webflow.io-401-db00d79e.png",
+      "consoleErrors": []
+    }
+  ],
+  "skipped": []
+}

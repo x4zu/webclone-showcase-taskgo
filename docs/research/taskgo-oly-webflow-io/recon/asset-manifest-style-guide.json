@@ -1,0 +1,146 @@
+{
+  "url": "https://taskgo-oly.webflow.io/style-guide",
+  "capturedVia": "browser-network+recon",
+  "total": 17,
+  "ok": 17,
+  "error": 0,
+  "fontsCss": "fonts/fonts.css",
+  "assets": [
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/css/taskgo-oly.webflow.shared.29351e249.css",
+      "kind": "stylesheet",
+      "via": "network",
+      "status": "ok",
+      "bytes": 127021,
+      "localPath": "css/cdn.prod.website-files.com/taskgo-oly.webflow.shared.29351e249-670aa59425.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Inter+Tight:regular,500,600",
+      "kind": "stylesheet",
+      "via": "network",
+      "status": "ok",
+      "bytes": 630,
+      "localPath": "css/fonts.googleapis.com/css-74c9511268.bin"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/696221807b06740cad9862aa_Mask%20group.webp",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 132338,
+      "localPath": "images/cdn.prod.website-files.com/696221807b06740cad9862aa_Mask-20group-6660b7667a.webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695c8defd2d1925285937c97_Frame%209.svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 8241,
+      "localPath": "images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsH8ag.woff2",
+      "kind": "font",
+      "via": "network",
+      "status": "ok",
+      "bytes": 44872,
+      "localPath": "fonts/fonts.gstatic.com/NGSwv5HMAFg6IuGlBNMjxLsH8ag-701d4a6439.woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695c7e3659ed78f576ec9cde_Frame%201249187580.svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 2467,
+      "localPath": "images/cdn.prod.website-files.com/695c7e3659ed78f576ec9cde_Frame-201249187580-ab80ad2ca3.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/6962200540c0c848e41da49a_Group%202087329895-p-3200.webp",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 507874,
+      "localPath": "images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-202087329895-p-3200-caabca5f58.webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695e4369ebbba91ab0ed8bb8_Frame%2055.svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 8239,
+      "localPath": "images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6dc9351fb1ebebfc66a0_s0%201.svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 1426,
+      "localPath": "images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6df534d2b8d2c3abbd9b_Group.svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 376,
+      "localPath": "images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f762128d571edde554ae6_Group%20(2).webp",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 238,
+      "localPath": "images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f75b5766a77285730b33e_sPath%200%201.webp",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 314,
+      "localPath": "images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6cd2a2762f55823f9013_Group%2068.svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 1743,
+      "localPath": "images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6d1c86cb29c0942a0ac8_Vector%20(2).svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 2851,
+      "localPath": "images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f7286352b127d5221b945_Group%2068.webp",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 484,
+      "localPath": "images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f75a3f137a9379aaf7fe5_s0%201.webp",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 596,
+      "localPath": "images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo.svg",
+      "kind": "image",
+      "via": "network",
+      "status": "ok",
+      "bytes": 8406,
+      "localPath": "images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg"
+    }
+  ]
+}

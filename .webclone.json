@@ -1,0 +1,14 @@
+{
+  "generator": "webclone",
+  "templateVersion": "2.0.1",
+  "createdAt": "2026-11-12T04:46:54.690Z",
+  "updatedAt": "2026-11-12T04:46:54.692Z",
+  "sites": [
+    {
+      "url": "https://taskgo-oly.webflow.io/",
+      "origin": "https://taskgo-oly.webflow.io",
+      "slug": "taskgo-oly-webflow-io",
+      "pathname": "/"
+    }
+  ]
+}

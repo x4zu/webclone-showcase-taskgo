@@ -1,0 +1,604 @@
+{
+ "triggers": [
+  {
+   "trigger": "div.heading-wraper.price",
+   "start": "clamp(top 80)",
+   "end": "clamp(bottom 90%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 0,
+   "tweens": []
+  },
+  {
+   "trigger": "div.teams-block",
+   "start": "clamp(90 bottom)",
+   "end": "clamp(bottom 90%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1.1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1.1,
+     "ease": "none",
+     "stagger": {
+      "each": 0.2
+     },
+     "from": {
+      "y": "40%",
+      "skewX": "9deg"
+     },
+     "to": {
+      "y": "0%",
+      "skewX": "0deg"
+     },
+     "targets": 4,
+     "first": "div.teams-block",
+     "last": "div#w-node-_6b23b4fd-fa8a-f239-9d27-26a1df2138a0-68ae409d.teams-block._04"
+    }
+   ]
+  },
+  {
+   "trigger": "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878d1-68ae409d.review-row-holder",
+   "start": "clamp(top 50%)",
+   "end": "clamp(bottom 80%)",
+   "scrub": 0.86,
+   "toggleActions": "play none none none",
+   "animDuration": 0.5,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 0.5,
+     "ease": "none",
+     "stagger": {
+      "each": 0.2
+     },
+     "from": {
+      "opacity": 0.5,
+      "scale": 0.8
+     },
+     "to": {
+      "opacity": 1,
+      "scale": 1
+     },
+     "targets": 1,
+     "first": "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878d2-68ae409d.review-1st-block-wrap",
+     "last": "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878d2-68ae409d.review-1st-block-wrap"
+    },
+    {
+     "start": 0,
+     "duration": 0.5,
+     "ease": "none",
+     "stagger": {
+      "each": 0.2
+     },
+     "from": {
+      "scale": 1.1,
+      "xPercent": -6
+     },
+     "to": {
+      "scale": 1,
+      "xPercent": 0
+     },
+     "targets": 1,
+     "first": "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878e5-68ae409d.review-small-crad",
+     "last": "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878e5-68ae409d.review-small-crad"
+    },
+    {
+     "start": 0,
+     "duration": 0.5,
+     "ease": "none",
+     "stagger": {
+      "each": 0.2
+     },
+     "from": {
+      "opacity": 0.35,
+      "scale": 0.9,
+      "skewX": "6deg"
+     },
+     "to": {
+      "opacity": 1,
+      "scale": 1,
+      "skewX": "0deg"
+     },
+     "targets": 1,
+     "first": "div.clinet-image-wrap",
+     "last": "div.clinet-image-wrap"
+    }
+   ]
+  },
+  {
+   "trigger": "div.review-02-row-holder",
+   "start": "clamp(top 50%)",
+   "end": "clamp(bottom 90%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 0.5,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 0.5,
+     "ease": "none",
+     "stagger": {
+      "each": 0.2
+     },
+     "from": {
+      "opacity": 0.35,
+      "scale": 0.9,
+      "skewX": "6deg"
+     },
+     "to": {
+      "opacity": 1,
+      "scale": 1,
+      "skewX": "1deg"
+     },
+     "targets": 1,
+     "first": "div.clinet-bottom-wrap",
+     "last": "div.clinet-bottom-wrap"
+    },
+    {
+     "start": 0,
+     "duration": 0.5,
+     "ease": "none",
+     "stagger": {
+      "each": 0.2
+     },
+     "from": {
+      "scale": 1.1,
+      "rotationX": "40deg",
+      "xPercent": 11
+     },
+     "to": {
+      "scale": 1,
+      "rotationX": "0deg",
+      "xPercent": 0
+     },
+     "targets": 1,
+     "first": "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878f4-68ae409d.review-small-crad",
+     "last": "div#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878f4-68ae409d.review-small-crad"
+    },
+    {
+     "start": 0,
+     "duration": 0.5,
+     "ease": "none",
+     "stagger": {
+      "each": 0.2
+     },
+     "from": {
+      "opacity": 0.5,
+      "scale": 0.8
+     },
+     "to": {
+      "opacity": 1,
+      "scale": 1
+     },
+     "targets": 1,
+     "first": "div.review-info-wrap",
+     "last": "div.review-info-wrap"
+    }
+   ]
+  },
+  {
+   "trigger": "h2.heading-title.center",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 45,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter45"
+    }
+   ]
+  },
+  {
+   "trigger": "h2.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 20,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter20"
+    }
+   ]
+  },
+  {
+   "trigger": "h3.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 3,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter3"
+    }
+   ]
+  },
+  {
+   "trigger": "h3.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 2,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter2"
+    }
+   ]
+  },
+  {
+   "trigger": "h3.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 4,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter4"
+    }
+   ]
+  },
+  {
+   "trigger": "h3.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 4,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter4"
+    }
+   ]
+  },
+  {
+   "trigger": "h2.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 26,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter26"
+    }
+   ]
+  },
+  {
+   "trigger": "h2.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 40,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter40"
+    }
+   ]
+  },
+  {
+   "trigger": "h2.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 27,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter27"
+    }
+   ]
+  },
+  {
+   "trigger": "h2.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 26,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter26"
+    }
+   ]
+  },
+  {
+   "trigger": "h2.heading-title",
+   "start": "clamp(top bottom)",
+   "end": "clamp(bottom 50%)",
+   "scrub": 0.8,
+   "toggleActions": "play none none none",
+   "animDuration": 1,
+   "tweens": [
+    {
+     "start": 0,
+     "duration": 1,
+     "ease": "none",
+     "stagger": {
+      "amount": 0.5
+     },
+     "from": {
+      "opacity": 0,
+      "skewX": "30deg"
+     },
+     "to": {
+      "opacity": 1,
+      "skewX": "0deg"
+     },
+     "targets": 24,
+     "first": "div.gsap_split_letter.gsap_split_letter1",
+     "last": "div.gsap_split_letter.gsap_split_letter24"
+    }
+   ]
+  }
+ ],
+ "letterCount": 260,
+ "sample": [
+  {
+   "cls": "gsap_split_letter gsap_split_letter1",
+   "text": "S",
+   "parentCls": "gsap_split_word gsap_split_word1",
+   "style": "position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, 0px, 0px);"
+  },
+  {
+   "cls": "gsap_split_letter gsap_split_letter2",
+   "text": "i",
+   "parentCls": "gsap_split_word gsap_split_word1",
+   "style": "position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, 0px, 0px);"
+  },
+  {
+   "cls": "gsap_split_letter gsap_split_letter3",
+   "text": "m",
+   "parentCls": "gsap_split_word gsap_split_word1",
+   "style": "position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, 0px, 0px);"
+  },
+  {
+   "cls": "gsap_split_letter gsap_split_letter4",
+   "text": "p",
+   "parentCls": "gsap_split_word gsap_split_word1",
+   "style": "position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, 0px, 0px);"
+  },
+  {
+   "cls": "gsap_split_letter gsap_split_letter5",
+   "text": "l",
+   "parentCls": "gsap_split_word gsap_split_word1",
+   "style": "position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, 0px, 0px);"
+  },
+  {
+   "cls": "gsap_split_letter gsap_split_letter6",
+   "text": "i",
+   "parentCls": "gsap_split_word gsap_split_word1",
+   "style": "position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, 0px, 0px);"
+  }
+ ],
+ "heads": [
+  {
+   "h": "h1.hero-title.heading",
+   "n": 39,
+   "text": "Simplify Task Management Boost Productivity"
+  },
+  {
+   "h": "h2.heading-title.center",
+   "n": 45,
+   "text": "Unlock Premium Benefits WithOur Advanced Features."
+  },
+  {
+   "h": "h2.heading-title",
+   "n": 20,
+   "text": "Why Teams Choose TaskGo"
+  },
+  {
+   "h": "h3.heading-title",
+   "n": 3,
+   "text": "40%"
+  },
+  {
+   "h": "h3.heading-title",
+   "n": 2,
+   "text": "3×"
+  },
+  {
+   "h": "h3.heading-title",
+   "n": 4,
+   "text": "100%"
+  },
+  {
+   "h": "h3.heading-title",
+   "n": 4,
+   "text": "10k+"
+  },
+  {
+   "h": "h2.heading-title",
+   "n": 26,
+   "text": "Get Started in Just 3 Easy Steps"
+  },
+  {
+   "h": "h2.heading-title",
+   "n": 40,
+   "text": "Real Results, Real Impact.Our Success Stories"
+  },
+  {
+   "h": "h2.heading-title",
+   "n": 27,
+   "text": "Flexible Pricing For Every Team"
+  },
+  {
+   "h": "h2.heading-title",
+   "n": 26,
+   "text": "Effortless Tool Integrations"
+  },
+  {
+   "h": "h2.heading-title",
+   "n": 24,
+   "text": "Frequently Asked Questions"
+  }
+ ],
+ "splitWords": 45,
+ "splitLines": 0
+}

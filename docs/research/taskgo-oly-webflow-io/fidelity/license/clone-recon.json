@@ -1,0 +1,2898 @@
+{
+  "label": "clone",
+  "url": "http://localhost:3130/license",
+  "capturedAt": "2026-11-12T05:09:59.828Z",
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "pageErrors": []
+  },
+  "navigation": [
+    {
+      "viewport": 1440,
+      "recovered": false,
+      "url": "http://localhost:3130/license",
+      "readyState": "complete"
+    },
+    {
+      "viewport": 768,
+      "recovered": false,
+      "url": "http://localhost:3130/license",
+      "readyState": "interactive"
+    },
+    {
+      "viewport": 390,
+      "recovered": false,
+      "url": "http://localhost:3130/license",
+      "readyState": "interactive"
+    }
+  ],
+  "captures": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "screenshots\\clone-1440.png",
+      "signals": {
+        "href": "http://localhost:3130/license",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "lang": "en",
+        "bodyTextChars": 1221,
+        "scrollHeight": 2259,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "h1": [
+          "License"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "License"
+          },
+          {
+            "tag": "h2",
+            "text": "Font"
+          },
+          {
+            "tag": "h3",
+            "text": "Inter Tight"
+          }
+        ],
+        "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+        "counts": {
+          "links": 32,
+          "images": 12,
+          "video": 0,
+          "canvas": 0,
+          "sections": 4,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 32,
+          "scripts": 9,
+          "stylesheets": 3
+        },
+        "frameworks": {
+          "react": false,
+          "next": true,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://localhost:3130/_next/static/chunks/2mmpezlrfmbu5.js",
+          "http://localhost:3130/_next/static/chunks/27t_qfc-3_lzs.js",
+          "http://localhost:3130/_next/static/chunks/2e_lrwr-bf1eq.js",
+          "http://localhost:3130/_next/static/chunks/turbopack-17_pvygprndfa.js",
+          "http://localhost:3130/_next/static/chunks/3fntmmi971322.js",
+          "http://localhost:3130/_next/static/chunks/0hvpzkb9nfbmi.js",
+          "http://localhost:3130/_next/static/chunks/22i43cg4l4-dq.js",
+          "http://localhost:3130/_next/static/chunks/0cz1d0mv5g_q7.js",
+          "http://localhost:3130/_next/static/chunks/310vm2bl3xxpt.js"
+        ],
+        "stylesheets": [
+          "http://localhost:3130/_next/static/chunks/2rlw6zhjxrp8g.css",
+          "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css",
+          "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+        ],
+        "sections": [
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "navbar-menu w-nav-menu",
+            "text": "HomeHomeFeaturesFeaturesWhy ChooseWhy ChooseTestimonialTestimonialPricingPricingContact Us",
+            "rect": {
+              "x": 469,
+              "y": 44,
+              "width": 498,
+              "height": 26
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "18px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "section hero",
+            "text": "LicenseAll graphical assets in this template are licensed for personal and commercial use. If you'd like to use a specific asset, please check the license below.",
+            "rect": {
+              "x": 1,
+              "y": 1,
+              "width": 1423,
+              "height": 682
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "18px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "section",
+            "text": "FontInter TightDiscover various fonts for personal and commercial use. Check below for licensing details. Featured fonts Inter Tight from Google Fonts.FreepikFreepikAll graphical assets in this template are licensed for personal and commerc",
+            "rect": {
+              "x": 1,
+              "y": 683,
+              "width": 1423,
+              "height": 787
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "18px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "footer",
+            "text": "We design experiences that connect, convert, and scale with your business.MenusHomeHomeFeaturesFeaturesWhy ChooseWhy ChoosePricingPricingTestimonialTestimonialTemplatesStyle GuideStyle GuideLicenseLicenseChangelogChangelog404404PasswordPass",
+            "rect": {
+              "x": 1,
+              "y": 1470,
+              "width": 1423,
+              "height": 788
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "18px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--base-color",
+            "white"
+          ],
+          [
+            "--_font-family---inter-tight",
+            "\"Inter Tight\", sans-serif"
+          ],
+          [
+            "--_color---dark",
+            "#0d062d"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_weight---weight--regular",
+            "400"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_weight---weight--semi-bold",
+            "600"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_color---gray",
+            "#4e4d53"
+          ],
+          [
+            "--_color---white",
+            "white"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_color---menu-color",
+            "#fafaff"
+          ],
+          [
+            "--_color---primary-color",
+            "#6049e7"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_color---border-color-1",
+            "#b7d1ea"
+          ],
+          [
+            "--_color---light-gray",
+            "#f1f2f4"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_color---border-color-2",
+            "#89899d"
+          ],
+          [
+            "--_color---light-sky",
+            "#93d3fa"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_color---transparent",
+            "transparent"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ],
+          [
+            "--_color---card-bg",
+            "#d9d9d9"
+          ],
+          [
+            "--_color---dark-bg",
+            "#171717"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--base-color",
+            "white"
+          ],
+          [
+            "--_font-family---inter-tight",
+            "\"Inter Tight\", sans-serif"
+          ],
+          [
+            "--_color---dark",
+            "#0d062d"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_weight---weight--regular",
+            "400"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_weight---weight--semi-bold",
+            "600"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_color---gray",
+            "#4e4d53"
+          ],
+          [
+            "--_color---white",
+            "white"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_color---menu-color",
+            "#fafaff"
+          ],
+          [
+            "--_color---primary-color",
+            "#6049e7"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_color---border-color-1",
+            "#b7d1ea"
+          ],
+          [
+            "--_color---light-gray",
+            "#f1f2f4"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_color---border-color-2",
+            "#89899d"
+          ],
+          [
+            "--_color---light-sky",
+            "#93d3fa"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_color---transparent",
+            "transparent"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ],
+          [
+            "--_color---card-bg",
+            "#d9d9d9"
+          ],
+          [
+            "--_color---dark-bg",
+            "#171717"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(13, 6, 45)",
+            "borderColor": "rgb(13, 6, 45)",
+            "fontFamily": "\"Inter Tight\", sans-serif",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(13, 6, 45)",
+            "borderColor": "rgb(13, 6, 45)",
+            "fontFamily": "\"Inter Tight\", sans-serif",
+            "backgroundImage": ""
+          },
+          "main": null,
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(13, 6, 45)",
+            "borderColor": "rgb(13, 6, 45)",
+            "fontFamily": "\"Inter Tight\", sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Contact Us",
+              "backgroundColor": "rgb(13, 6, 45)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Contact Us",
+              "backgroundColor": "rgb(13, 6, 45)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "webflow-icons",
+          "Inter Tight",
+          "Inter Tight",
+          "Inter Tight",
+          "webflow-icons"
+        ],
+        "fontFaces": [
+          {
+            "family": "webflow-icons",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "data:application/x-font-ttf;charset=utf-8;base64,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"
+            ],
+            "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg8SBiUAAAC8AAAAYGNtYXDpP+a4AAABHAAAAFxnYXNwAAAAEAAAAXgAAAAIZ2x5ZmhS2XEAAAGAAAADHGhlYWQTFw3HAAAEnAAAADZoaGVhCXYFgQAABNQAAAAkaG10eCe4A1oAAAT4AAAAMGxvY2EDtALGAAAFKAAAABptYXhwABAAPgAABUQAAAAgbmFtZSoCsMsAAAVkAAABznBvc3QAAwAAAAAHNAAAACAAAwP4AZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAABAAADpAwPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAQAAAAAwACAACAAQAAQAg5gPpA//9//8AAAAAACDmAOkA//3//wAB/+MaBBcIAAMAAQAAAAAAAAAAAAAAAAABAAH//wAPAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAABAAAAAAAAAAAAAgAANzkBAAAAAAEBIAAAAyADgAAFAAAJAQcJARcDIP5AQAGA/oBAAcABwED+gP6AQAABAOAAAALgA4AABQAAEwEXCQEH4AHAQP6AAYBAAcABwED+gP6AQAAAAwDAAOADQALAAA8AHwAvAAABISIGHQEUFjMhMjY9ATQmByEiBh0BFBYzITI2PQE0JgchIgYdARQWMyEyNj0BNCYDIP3ADRMTDQJADRMTDf3ADRMTDQJADRMTDf3ADRMTDQJADRMTAsATDSANExMNIA0TwBMNIA0TEw0gDRPAEw0gDRMTDSANEwAAAAABAJ0AtAOBApUABQAACQIHCQEDJP7r/upcAXEBcgKU/usBFVz+fAGEAAAAAAL//f+9BAMDwwAEAAkAABcBJwEXAwE3AQdpA5ps/GZsbAOabPxmbEMDmmz8ZmwDmvxmbAOabAAAAgAA/8AEAAPAAB0AOwAABSInLgEnJjU0Nz4BNzYzMTIXHgEXFhUUBw4BBwYjNTI3PgE3NjU0Jy4BJyYjMSIHDgEHBhUUFx4BFxYzAgBqXV6LKCgoKIteXWpqXV6LKCgoKIteXWpVSktvICEhIG9LSlVVSktvICEhIG9LSlVAKCiLXl1qal1eiygoKCiLXl1qal1eiygoZiEgb0tKVVVKS28gISEgb0tKVVVKS28gIQABAAABwAIAA8AAEgAAEzQ3PgE3NjMxFSIHDgEHBhUxIwAoKIteXWpVSktvICFmAcBqXV6LKChmISBvS0pVAAAAAgAA/8AFtgPAADIAOgAAARYXHgEXFhUUBw4BBwYHIxUhIicuAScmNTQ3PgE3NjMxOAExNDc+ATc2MzIXHgEXFhcVATMJATMVMzUEjD83NlAXFxYXTjU1PQL8kz01Nk8XFxcXTzY1PSIjd1BQWlJJSXInJw3+mdv+2/7c25MCUQYcHFg5OUA/ODlXHBwIAhcXTzY1PTw1Nk8XF1tQUHcjIhwcYUNDTgL+3QFt/pOTkwABAAAAAQAAmM7nP18PPPUACwQAAAAAANciZKUAAAAA1yJkpf/9/70FtgPDAAAACAACAAAAAAAAAAEAAAPA/8AAAAW3//3//QW2AAEAAAAAAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAAAAgAAAAQAASAEAADgBAAAwAQAAJ0EAP/9BAAAAAQAAAAFtwAAAAAAAAAKABQAHgAyAEYAjACiAL4BFgE2AY4AAAABAAAADAA8AAMAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAADgCuAAEAAAAAAAEADQAAAAEAAAAAAAIABwCWAAEAAAAAAAMADQBIAAEAAAAAAAQADQCrAAEAAAAAAAUACwAnAAEAAAAAAAYADQBvAAEAAAAAAAoAGgDSAAMAAQQJAAEAGgANAAMAAQQJAAIADgCdAAMAAQQJAAMAGgBVAAMAAQQJAAQAGgC4AAMAAQQJAAUAFgAyAAMAAQQJAAYAGgB8AAMAAQQJAAoANADsd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzVmVyc2lvbiAxLjAAVgBlAHIAcwBpAG8AbgAgADEALgAwd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzUmVndWxhcgBSAGUAZwB1AGwAYQByd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzRm9udCBnZW5lcmF0ZWQgYnkgSWNvTW9vbi4ARgBvAG4AdAAgAGcAZQBuAGUAcgBhAHQAZQBkACAAYgB5ACAASQBjAG8ATQBvAG8AbgAuAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\") format(\"truetype\"); font-weight: 400; font-style: normal; }",
+            "sheetHref": "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css"
+          },
+          {
+            "family": "Inter Tight",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
+            ],
+            "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 400; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf\") format(\"truetype\"); }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          },
+          {
+            "family": "Inter Tight",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf"
+            ],
+            "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 500; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf\") format(\"truetype\"); }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          },
+          {
+            "family": "Inter Tight",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf"
+            ],
+            "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 600; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf\") format(\"truetype\"); }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          },
+          {
+            "family": "webflow-icons",
+            "weight": "normal",
+            "style": "normal",
+            "srcUrls": [
+              "data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg8SBiUAAAC8AAAAYGNtYXDpP+a4AAABHAAAAFxnYXNwAAAAEAAAAXgAAAAIZ2x5ZmhS2XEAAAGAAAADHGhlYWQTFw3HAAAEnAAAADZoaGVhCXYFgQAABNQAAAAkaG10eCe4A1oAAAT4AAAAMGxvY2EDtALGAAAFKAAAABptYXhwABAAPgAABUQAAAAgbmFtZSoCsMsAAAVkAAABznBvc3QAAwAAAAAHNAAAACAAAwP4AZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAABAAADpAwPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAQAAAAAwACAACAAQAAQAg5gPpA//9//8AAAAAACDmAOkA//3//wAB/+MaBBcIAAMAAQAAAAAAAAAAAAAAAAABAAH//wAPAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAABAAAAAAAAAAAAAgAANzkBAAAAAAEBIAAAAyADgAAFAAAJAQcJARcDIP5AQAGA/oBAAcABwED+gP6AQAABAOAAAALgA4AABQAAEwEXCQEH4AHAQP6AAYBAAcABwED+gP6AQAAAAwDAAOADQALAAA8AHwAvAAABISIGHQEUFjMhMjY9ATQmByEiBh0BFBYzITI2PQE0JgchIgYdARQWMyEyNj0BNCYDIP3ADRMTDQJADRMTDf3ADRMTDQJADRMTDf3ADRMTDQJADRMTAsATDSANExMNIA0TwBMNIA0TEw0gDRPAEw0gDRMTDSANEwAAAAABAJ0AtAOBApUABQAACQIHCQEDJP7r/upcAXEBcgKU/usBFVz+fAGEAAAAAAL//f+9BAMDwwAEAAkAABcBJwEXAwE3AQdpA5ps/GZsbAOabPxmbEMDmmz8ZmwDmvxmbAOabAAAAgAA/8AEAAPAAB0AOwAABSInLgEnJjU0Nz4BNzYzMTIXHgEXFhUUBw4BBwYjNTI3PgE3NjU0Jy4BJyYjMSIHDgEHBhUUFx4BFxYzAgBqXV6LKCgoKIteXWpqXV6LKCgoKIteXWpVSktvICEhIG9LSlVVSktvICEhIG9LSlVAKCiLXl1qal1eiygoKCiLXl1qal1eiygoZiEgb0tKVVVKS28gISEgb0tKVVVKS28gIQABAAABwAIAA8AAEgAAEzQ3PgE3NjMxFSIHDgEHBhUxIwAoKIteXWpVSktvICFmAcBqXV6LKChmISBvS0pVAAAAAgAA/8AFtgPAADIAOgAAARYXHgEXFhUUBw4BBwYHIxUhIicuAScmNTQ3PgE3NjMxOAExNDc+ATc2MzIXHgEXFhcVATMJATMVMzUEjD83NlAXFxYXTjU1PQL8kz01Nk8XFxcXTzY1PSIjd1BQWlJJSXInJw3+mdv+2/7c25MCUQYcHFg5OUA/ODlXHBwIAhcXTzY1PTw1Nk8XF1tQUHcjIhwcYUNDTgL+3QFt/pOTkwABAAAAAQAAmM7nP18PPPUACwQAAAAAANciZKUAAAAA1yJkpf/9/70FtgPDAAAACAACAAAAAAAAAAEAAAPA/8AAAAW3//3//QW2AAEAAAAAAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAAAAgAAAAQAASAEAADgBAAAwAQAAJ0EAP/9BAAAAAQAAAAFtwAAAAAAAAAKABQAHgAyAEYAjACiAL4BFgE2AY4AAAABAAAADAA8AAMAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAADgCuAAEAAAAAAAEADQAAAAEAAAAAAAIABwCWAAEAAAAAAAMADQBIAAEAAAAAAAQADQCrAAEAAAAAAAUACwAnAAEAAAAAAAYADQBvAAEAAAAAAAoAGgDSAAMAAQQJAAEAGgANAAMAAQQJAAIADgCdAAMAAQQJAAMAGgBVAAMAAQQJAAQAGgC4AAMAAQQJAAUAFgAyAAMAAQQJAAYAGgB8AAMAAQQJAAoANADsd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzVmVyc2lvbiAxLjAAVgBlAHIAcwBpAG8AbgAgADEALgAwd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzUmVndWxhcgBSAGUAZwB1AGwAYQByd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzRm9udCBnZW5lcmF0ZWQgYnkgSWNvTW9vbi4ARgBvAG4AdAAgAGcAZQBuAGUAcgBhAHQAZQBkACAAYgB5ACAASQBjAG8ATQBvAG8AbgAuAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+            ],
+            "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: normal; font-style: normal; }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-1600-69e2199668.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/favicon.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4195_Vector-20-3--aaaf9612bc.svg"
+          ],
+          "fonts": [
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 168,
+            "height": 48
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-1600-69e2199668.webp",
+            "srcset": "/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-500-8d044d4775.webp 500w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-800-4b272ee33a.webp 800w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-1080-0c32b21677.webp 1080w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-1600-69e2199668.webp 1600w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-2000-ca631ab696.webp 2000w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-2600-3bd1727643.webp 2600w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-202087329895-p-3200-caabca5f58.webp 3200w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-e01660748b.webp 7520w",
+            "alt": "",
+            "width": 1440,
+            "height": 451
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 168,
+            "height": 48
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 8,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 29,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 14,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 55,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 14,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 55,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 14,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 55,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 766,
+            "height": 222
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "screenshot": "screenshots\\clone-768.png",
+      "signals": {
+        "href": "http://localhost:3130/license",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "lang": "en",
+        "bodyTextChars": 1120,
+        "scrollHeight": 2260,
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "h1": [
+          "License"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "License"
+          },
+          {
+            "tag": "h2",
+            "text": "Font"
+          },
+          {
+            "tag": "h3",
+            "text": "Inter Tight"
+          }
+        ],
+        "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+        "counts": {
+          "links": 32,
+          "images": 12,
+          "video": 0,
+          "canvas": 0,
+          "sections": 4,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 32,
+          "scripts": 9,
+          "stylesheets": 3
+        },
+        "frameworks": {
+          "react": false,
+          "next": true,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://localhost:3130/_next/static/chunks/2mmpezlrfmbu5.js",
+          "http://localhost:3130/_next/static/chunks/27t_qfc-3_lzs.js",
+          "http://localhost:3130/_next/static/chunks/2e_lrwr-bf1eq.js",
+          "http://localhost:3130/_next/static/chunks/turbopack-17_pvygprndfa.js",
+          "http://localhost:3130/_next/static/chunks/3fntmmi971322.js",
+          "http://localhost:3130/_next/static/chunks/0hvpzkb9nfbmi.js",
+          "http://localhost:3130/_next/static/chunks/22i43cg4l4-dq.js",
+          "http://localhost:3130/_next/static/chunks/0cz1d0mv5g_q7.js",
+          "http://localhost:3130/_next/static/chunks/310vm2bl3xxpt.js"
+        ],
+        "stylesheets": [
+          "http://localhost:3130/_next/static/chunks/2rlw6zhjxrp8g.css",
+          "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css",
+          "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+        ],
+        "sections": [
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "navbar-menu w-nav-menu",
+            "text": "HomeHomeFeaturesFeaturesWhy ChooseWhy ChooseTestimonialTestimonialPricingPricingContact Us",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "none",
+              "position": "absolute",
+              "backgroundColor": "rgb(250, 250, 255)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "section hero",
+            "text": "LicenseAll graphical assets in this template are licensed for personal and commercial use. If you'd like to use a specific asset, please check the license below.",
+            "rect": {
+              "x": 1,
+              "y": 1,
+              "width": 751,
+              "height": 490
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "section",
+            "text": "FontInter TightDiscover various fonts for personal and commercial use. Check below for licensing details. Featured fonts Inter Tight from Google Fonts.FreepikFreepikAll graphical assets in this template are licensed for personal and commerc",
+            "rect": {
+              "x": 1,
+              "y": 491,
+              "width": 751,
+              "height": 843
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "footer",
+            "text": "We design experiences that connect, convert, and scale with your business.MenusHomeHomeFeaturesFeaturesWhy ChooseWhy ChoosePricingPricingTestimonialTestimonialTemplatesStyle GuideStyle GuideLicenseLicenseChangelogChangelog404404PasswordPass",
+            "rect": {
+              "x": 1,
+              "y": 1334,
+              "width": 751,
+              "height": 925
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--base-color",
+            "white"
+          ],
+          [
+            "--_font-family---inter-tight",
+            "\"Inter Tight\", sans-serif"
+          ],
+          [
+            "--_color---dark",
+            "#0d062d"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_weight---weight--regular",
+            "400"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_weight---weight--semi-bold",
+            "600"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_color---gray",
+            "#4e4d53"
+          ],
+          [
+            "--_color---white",
+            "white"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_color---menu-color",
+            "#fafaff"
+          ],
+          [
+            "--_color---primary-color",
+            "#6049e7"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_color---border-color-1",
+            "#b7d1ea"
+          ],
+          [
+            "--_color---light-gray",
+            "#f1f2f4"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_color---border-color-2",
+            "#89899d"
+          ],
+          [
+            "--_color---light-sky",
+            "#93d3fa"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_color---transparent",
+            "transparent"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ],
+          [
+            "--_color---card-bg",
+            "#d9d9d9"
+          ],
+          [
+            "--_color---dark-bg",
+            "#171717"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--base-color",
+            "white"
+          ],
+          [
+            "--_font-family---inter-tight",
+            "\"Inter Tight\", sans-serif"
+          ],
+          [
+            "--_color---dark",
+            "#0d062d"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_weight---weight--regular",
+            "400"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_weight---weight--semi-bold",
+            "600"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_color---gray",
+            "#4e4d53"
+          ],
+          [
+            "--_color---white",
+            "white"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_color---menu-color",
+            "#fafaff"
+          ],
+          [
+            "--_color---primary-color",
+            "#6049e7"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_color---border-color-1",
+            "#b7d1ea"
+          ],
+          [
+            "--_color---light-gray",
+            "#f1f2f4"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_color---border-color-2",
+            "#89899d"
+          ],
+          [
+            "--_color---light-sky",
+            "#93d3fa"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_color---transparent",
+            "transparent"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ],
+          [
+            "--_color---card-bg",
+            "#d9d9d9"
+          ],
+          [
+            "--_color---dark-bg",
+            "#171717"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(13, 6, 45)",
+            "borderColor": "rgb(13, 6, 45)",
+            "fontFamily": "\"Inter Tight\", sans-serif",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": {
+            "backgroundColor": "rgb(250, 250, 255)",
+            "color": "rgb(13, 6, 45)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Inter Tight\", sans-serif",
+            "backgroundImage": ""
+          },
+          "main": null,
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(13, 6, 45)",
+            "borderColor": "rgb(13, 6, 45)",
+            "fontFamily": "\"Inter Tight\", sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Contact Us",
+              "backgroundColor": "rgb(13, 6, 45)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Contact Us",
+              "backgroundColor": "rgb(13, 6, 45)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "webflow-icons",
+          "Inter Tight",
+          "Inter Tight",
+          "Inter Tight",
+          "webflow-icons"
+        ],
+        "fontFaces": [
+          {
+            "family": "webflow-icons",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg8SBiUAAAC8AAAAYGNtYXDpP+a4AAABHAAAAFxnYXNwAAAAEAAAAXgAAAAIZ2x5ZmhS2XEAAAGAAAADHGhlYWQTFw3HAAAEnAAAADZoaGVhCXYFgQAABNQAAAAkaG10eCe4A1oAAAT4AAAAMGxvY2EDtALGAAAFKAAAABptYXhwABAAPgAABUQAAAAgbmFtZSoCsMsAAAVkAAABznBvc3QAAwAAAAAHNAAAACAAAwP4AZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAABAAADpAwPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAQAAAAAwACAACAAQAAQAg5gPpA//9//8AAAAAACDmAOkA//3//wAB/+MaBBcIAAMAAQAAAAAAAAAAAAAAAAABAAH//wAPAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAABAAAAAAAAAAAAAgAANzkBAAAAAAEBIAAAAyADgAAFAAAJAQcJARcDIP5AQAGA/oBAAcABwED+gP6AQAABAOAAAALgA4AABQAAEwEXCQEH4AHAQP6AAYBAAcABwED+gP6AQAAAAwDAAOADQALAAA8AHwAvAAABISIGHQEUFjMhMjY9ATQmByEiBh0BFBYzITI2PQE0JgchIgYdARQWMyEyNj0BNCYDIP3ADRMTDQJADRMTDf3ADRMTDQJADRMTDf3ADRMTDQJADRMTAsATDSANExMNIA0TwBMNIA0TEw0gDRPAEw0gDRMTDSANEwAAAAABAJ0AtAOBApUABQAACQIHCQEDJP7r/upcAXEBcgKU/usBFVz+fAGEAAAAAAL//f+9BAMDwwAEAAkAABcBJwEXAwE3AQdpA5ps/GZsbAOabPxmbEMDmmz8ZmwDmvxmbAOabAAAAgAA/8AEAAPAAB0AOwAABSInLgEnJjU0Nz4BNzYzMTIXHgEXFhUUBw4BBwYjNTI3PgE3NjU0Jy4BJyYjMSIHDgEHBhUUFx4BFxYzAgBqXV6LKCgoKIteXWpqXV6LKCgoKIteXWpVSktvICEhIG9LSlVVSktvICEhIG9LSlVAKCiLXl1qal1eiygoKCiLXl1qal1eiygoZiEgb0tKVVVKS28gISEgb0tKVVVKS28gIQABAAABwAIAA8AAEgAAEzQ3PgE3NjMxFSIHDgEHBhUxIwAoKIteXWpVSktvICFmAcBqXV6LKChmISBvS0pVAAAAAgAA/8AFtgPAADIAOgAAARYXHgEXFhUUBw4BBwYHIxUhIicuAScmNTQ3PgE3NjMxOAExNDc+ATc2MzIXHgEXFhcVATMJATMVMzUEjD83NlAXFxYXTjU1PQL8kz01Nk8XFxcXTzY1PSIjd1BQWlJJSXInJw3+mdv+2/7c25MCUQYcHFg5OUA/ODlXHBwIAhcXTzY1PTw1Nk8XF1tQUHcjIhwcYUNDTgL+3QFt/pOTkwABAAAAAQAAmM7nP18PPPUACwQAAAAAANciZKUAAAAA1yJkpf/9/70FtgPDAAAACAACAAAAAAAAAAEAAAPA/8AAAAW3//3//QW2AAEAAAAAAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAAAAgAAAAQAASAEAADgBAAAwAQAAJ0EAP/9BAAAAAQAAAAFtwAAAAAAAAAKABQAHgAyAEYAjACiAL4BFgE2AY4AAAABAAAADAA8AAMAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAADgCuAAEAAAAAAAEADQAAAAEAAAAAAAIABwCWAAEAAAAAAAMADQBIAAEAAAAAAAQADQCrAAEAAAAAAAUACwAnAAEAAAAAAAYADQBvAAEAAAAAAAoAGgDSAAMAAQQJAAEAGgANAAMAAQQJAAIADgCdAAMAAQQJAAMAGgBVAAMAAQQJAAQAGgC4AAMAAQQJAAUAFgAyAAMAAQQJAAYAGgB8AAMAAQQJAAoANADsd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzVmVyc2lvbiAxLjAAVgBlAHIAcwBpAG8AbgAgADEALgAwd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzUmVndWxhcgBSAGUAZwB1AGwAYQByd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzRm9udCBnZW5lcmF0ZWQgYnkgSWNvTW9vbi4ARgBvAG4AdAAgAGcAZQBuAGUAcgBhAHQAZQBkACAAYgB5ACAASQBjAG8ATQBvAG8AbgAuAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+            ],
+            "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: 400; font-style: normal; }",
+            "sheetHref": "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css"
+          },
+          {
+            "family": "Inter Tight",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
+            ],
+            "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 400; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf\") format(\"truetype\"); }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          },
+          {
+            "family": "Inter Tight",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf"
+            ],
+            "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 500; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf\") format(\"truetype\"); }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          },
+          {
+            "family": "Inter Tight",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf"
+            ],
+            "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 600; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf\") format(\"truetype\"); }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          },
+          {
+            "family": "webflow-icons",
+            "weight": "normal",
+            "style": "normal",
+            "srcUrls": [
+              "data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg8SBiUAAAC8AAAAYGNtYXDpP+a4AAABHAAAAFxnYXNwAAAAEAAAAXgAAAAIZ2x5ZmhS2XEAAAGAAAADHGhlYWQTFw3HAAAEnAAAADZoaGVhCXYFgQAABNQAAAAkaG10eCe4A1oAAAT4AAAAMGxvY2EDtALGAAAFKAAAABptYXhwABAAPgAABUQAAAAgbmFtZSoCsMsAAAVkAAABznBvc3QAAwAAAAAHNAAAACAAAwP4AZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAABAAADpAwPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAQAAAAAwACAACAAQAAQAg5gPpA//9//8AAAAAACDmAOkA//3//wAB/+MaBBcIAAMAAQAAAAAAAAAAAAAAAAABAAH//wAPAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAABAAAAAAAAAAAAAgAANzkBAAAAAAEBIAAAAyADgAAFAAAJAQcJARcDIP5AQAGA/oBAAcABwED+gP6AQAABAOAAAALgA4AABQAAEwEXCQEH4AHAQP6AAYBAAcABwED+gP6AQAAAAwDAAOADQALAAA8AHwAvAAABISIGHQEUFjMhMjY9ATQmByEiBh0BFBYzITI2PQE0JgchIgYdARQWMyEyNj0BNCYDIP3ADRMTDQJADRMTDf3ADRMTDQJADRMTDf3ADRMTDQJADRMTAsATDSANExMNIA0TwBMNIA0TEw0gDRPAEw0gDRMTDSANEwAAAAABAJ0AtAOBApUABQAACQIHCQEDJP7r/upcAXEBcgKU/usBFVz+fAGEAAAAAAL//f+9BAMDwwAEAAkAABcBJwEXAwE3AQdpA5ps/GZsbAOabPxmbEMDmmz8ZmwDmvxmbAOabAAAAgAA/8AEAAPAAB0AOwAABSInLgEnJjU0Nz4BNzYzMTIXHgEXFhUUBw4BBwYjNTI3PgE3NjU0Jy4BJyYjMSIHDgEHBhUUFx4BFxYzAgBqXV6LKCgoKIteXWpqXV6LKCgoKIteXWpVSktvICEhIG9LSlVVSktvICEhIG9LSlVAKCiLXl1qal1eiygoKCiLXl1qal1eiygoZiEgb0tKVVVKS28gISEgb0tKVVVKS28gIQABAAABwAIAA8AAEgAAEzQ3PgE3NjMxFSIHDgEHBhUxIwAoKIteXWpVSktvICFmAcBqXV6LKChmISBvS0pVAAAAAgAA/8AFtgPAADIAOgAAARYXHgEXFhUUBw4BBwYHIxUhIicuAScmNTQ3PgE3NjMxOAExNDc+ATc2MzIXHgEXFhcVATMJATMVMzUEjD83NlAXFxYXTjU1PQL8kz01Nk8XFxcXTzY1PSIjd1BQWlJJSXInJw3+mdv+2/7c25MCUQYcHFg5OUA/ODlXHBwIAhcXTzY1PTw1Nk8XF1tQUHcjIhwcYUNDTgL+3QFt/pOTkwABAAAAAQAAmM7nP18PPPUACwQAAAAAANciZKUAAAAA1yJkpf/9/70FtgPDAAAACAACAAAAAAAAAAEAAAPA/8AAAAW3//3//QW2AAEAAAAAAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAAAAgAAAAQAASAEAADgBAAAwAQAAJ0EAP/9BAAAAAQAAAAFtwAAAAAAAAAKABQAHgAyAEYAjACiAL4BFgE2AY4AAAABAAAADAA8AAMAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAADgCuAAEAAAAAAAEADQAAAAEAAAAAAAIABwCWAAEAAAAAAAMADQBIAAEAAAAAAAQADQCrAAEAAAAAAAUACwAnAAEAAAAAAAYADQBvAAEAAAAAAAoAGgDSAAMAAQQJAAEAGgANAAMAAQQJAAIADgCdAAMAAQQJAAMAGgBVAAMAAQQJAAQAGgC4AAMAAQQJAAUAFgAyAAMAAQQJAAYAGgB8AAMAAQQJAAoANADsd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzVmVyc2lvbiAxLjAAVgBlAHIAcwBpAG8AbgAgADEALgAwd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzUmVndWxhcgBSAGUAZwB1AGwAYQByd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzRm9udCBnZW5lcmF0ZWQgYnkgSWNvTW9vbi4ARgBvAG4AdAAgAGcAZQBuAGUAcgBhAHQAZQBkACAAYgB5ACAASQBjAG8ATQBvAG8AbgAuAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+            ],
+            "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: normal; font-style: normal; }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-800-4b272ee33a.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4195_Vector-20-3--aaaf9612bc.svg"
+          ],
+          "fonts": [
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 168,
+            "height": 48
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-800-4b272ee33a.webp",
+            "srcset": "/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-500-8d044d4775.webp 500w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-800-4b272ee33a.webp 800w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-1080-0c32b21677.webp 1080w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-1600-69e2199668.webp 1600w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-2000-ca631ab696.webp 2000w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-2600-3bd1727643.webp 2600w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-202087329895-p-3200-caabca5f58.webp 3200w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-e01660748b.webp 7520w",
+            "alt": "",
+            "width": 768,
+            "height": 240
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 168,
+            "height": 48
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 8,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 29,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 14,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 55,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 14,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 55,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 14,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 55,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 766,
+            "height": 222
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "screenshots\\clone-390.png",
+      "signals": {
+        "href": "http://localhost:3130/license",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "lang": "en",
+        "bodyTextChars": 1120,
+        "scrollHeight": 2092,
+        "viewport": {
+          "width": 390,
+          "height": 900
+        },
+        "h1": [
+          "License"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "License"
+          },
+          {
+            "tag": "h2",
+            "text": "Font"
+          },
+          {
+            "tag": "h3",
+            "text": "Inter Tight"
+          }
+        ],
+        "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+        "counts": {
+          "links": 32,
+          "images": 12,
+          "video": 0,
+          "canvas": 0,
+          "sections": 4,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 32,
+          "scripts": 9,
+          "stylesheets": 3
+        },
+        "frameworks": {
+          "react": false,
+          "next": true,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://localhost:3130/_next/static/chunks/2mmpezlrfmbu5.js",
+          "http://localhost:3130/_next/static/chunks/27t_qfc-3_lzs.js",
+          "http://localhost:3130/_next/static/chunks/2e_lrwr-bf1eq.js",
+          "http://localhost:3130/_next/static/chunks/turbopack-17_pvygprndfa.js",
+          "http://localhost:3130/_next/static/chunks/3fntmmi971322.js",
+          "http://localhost:3130/_next/static/chunks/0hvpzkb9nfbmi.js",
+          "http://localhost:3130/_next/static/chunks/22i43cg4l4-dq.js",
+          "http://localhost:3130/_next/static/chunks/0cz1d0mv5g_q7.js",
+          "http://localhost:3130/_next/static/chunks/310vm2bl3xxpt.js"
+        ],
+        "stylesheets": [
+          "http://localhost:3130/_next/static/chunks/2rlw6zhjxrp8g.css",
+          "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css",
+          "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+        ],
+        "sections": [
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "navbar-menu w-nav-menu",
+            "text": "HomeHomeFeaturesFeaturesWhy ChooseWhy ChooseTestimonialTestimonialPricingPricingContact Us",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "none",
+              "position": "absolute",
+              "backgroundColor": "rgb(250, 250, 255)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "section hero",
+            "text": "LicenseAll graphical assets in this template are licensed for personal and commercial use. If you'd like to use a specific asset, please check the license below.",
+            "rect": {
+              "x": 1,
+              "y": 1,
+              "width": 373,
+              "height": 335
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "section",
+            "text": "FontInter TightDiscover various fonts for personal and commercial use. Check below for licensing details. Featured fonts Inter Tight from Google Fonts.FreepikFreepikAll graphical assets in this template are licensed for personal and commerc",
+            "rect": {
+              "x": 1,
+              "y": 336,
+              "width": 373,
+              "height": 859
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "",
+            "className": "footer",
+            "text": "We design experiences that connect, convert, and scale with your business.MenusHomeHomeFeaturesFeaturesWhy ChooseWhy ChoosePricingPricingTestimonialTestimonialTemplatesStyle GuideStyle GuideLicenseLicenseChangelogChangelog404404PasswordPass",
+            "rect": {
+              "x": 1,
+              "y": 1195,
+              "width": 373,
+              "height": 896
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(13, 6, 45)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--base-color",
+            "white"
+          ],
+          [
+            "--_font-family---inter-tight",
+            "\"Inter Tight\", sans-serif"
+          ],
+          [
+            "--_color---dark",
+            "#0d062d"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_weight---weight--regular",
+            "400"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_weight---weight--semi-bold",
+            "600"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_color---gray",
+            "#4e4d53"
+          ],
+          [
+            "--_color---white",
+            "white"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_color---menu-color",
+            "#fafaff"
+          ],
+          [
+            "--_color---primary-color",
+            "#6049e7"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_color---border-color-1",
+            "#b7d1ea"
+          ],
+          [
+            "--_color---light-gray",
+            "#f1f2f4"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_color---border-color-2",
+            "#89899d"
+          ],
+          [
+            "--_color---light-sky",
+            "#93d3fa"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_color---transparent",
+            "transparent"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ],
+          [
+            "--_color---card-bg",
+            "#d9d9d9"
+          ],
+          [
+            "--_color---dark-bg",
+            "#171717"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--base-color",
+            "white"
+          ],
+          [
+            "--_font-family---inter-tight",
+            "\"Inter Tight\", sans-serif"
+          ],
+          [
+            "--_color---dark",
+            "#0d062d"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_weight---weight--regular",
+            "400"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_weight---weight--semi-bold",
+            "600"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_color---gray",
+            "#4e4d53"
+          ],
+          [
+            "--_color---white",
+            "white"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_color---menu-color",
+            "#fafaff"
+          ],
+          [
+            "--_color---primary-color",
+            "#6049e7"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_color---border-color-1",
+            "#b7d1ea"
+          ],
+          [
+            "--_color---light-gray",
+            "#f1f2f4"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_color---border-color-2",
+            "#89899d"
+          ],
+          [
+            "--_color---light-sky",
+            "#93d3fa"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_color---transparent",
+            "transparent"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ],
+          [
+            "--_color---card-bg",
+            "#d9d9d9"
+          ],
+          [
+            "--_color---dark-bg",
+            "#171717"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-medium",
+            "18px"
+          ],
+          [
+            "--_font-size---line-height--large",
+            "150%"
+          ],
+          [
+            "--_font-size---heading--h1",
+            "72px"
+          ],
+          [
+            "--_font-size---line-height--small",
+            "110%"
+          ],
+          [
+            "--_font-size---latter-space--space-xxx",
+            "-1.44px"
+          ],
+          [
+            "--_font-size---heading--h2",
+            "54px"
+          ],
+          [
+            "--_font-size---line-height--medium",
+            "120%"
+          ],
+          [
+            "--_font-size---latter-space--space-xl",
+            "-1.08px"
+          ],
+          [
+            "--_font-size---heading--h3",
+            "40px"
+          ],
+          [
+            "--_font-size---latter-space--space-x",
+            "-.8px"
+          ],
+          [
+            "--_font-size---heading--h4",
+            "24px"
+          ],
+          [
+            "--_font-size---latter-space--space-m",
+            "-.48px"
+          ],
+          [
+            "--_font-size---heading--h5",
+            "20px"
+          ],
+          [
+            "--_font-size---latter-space--space-s",
+            "-.4px"
+          ],
+          [
+            "--_font-size---heading--h6<deleted|variable-4f2c289d-5885-3176-abd9-0cc43c8fbd97>",
+            "20px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-regular",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--tiny-text",
+            "16px"
+          ],
+          [
+            "--_font-size---paragraph--paragraph-large",
+            "20px"
+          ],
+          [
+            "--_font-size---line-height--150<deleted|variable-0100e873-45b6-2ad4-ee92-d26c5a3fec67>",
+            "150%"
+          ],
+          [
+            "--_container---max-width",
+            "1350px"
+          ],
+          [
+            "--_container---padding",
+            "15px"
+          ],
+          [
+            "--_redius---regular",
+            "20px"
+          ],
+          [
+            "--_redius---large-xx",
+            "120px"
+          ],
+          [
+            "--_redius---large",
+            "100%"
+          ],
+          [
+            "--_redius---large-x",
+            "90px"
+          ],
+          [
+            "--_redius---large-xl",
+            "60px"
+          ],
+          [
+            "--_redius---large-x-m",
+            "50px"
+          ],
+          [
+            "--_redius---large-xxx",
+            "170px"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(13, 6, 45)",
+            "borderColor": "rgb(13, 6, 45)",
+            "fontFamily": "\"Inter Tight\", sans-serif",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": {
+            "backgroundColor": "rgb(250, 250, 255)",
+            "color": "rgb(13, 6, 45)",
+            "borderColor": "rgb(255, 255, 255)",
+            "fontFamily": "\"Inter Tight\", sans-serif",
+            "backgroundImage": ""
+          },
+          "main": null,
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(13, 6, 45)",
+            "borderColor": "rgb(13, 6, 45)",
+            "fontFamily": "\"Inter Tight\", sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Contact Us",
+              "backgroundColor": "rgb(13, 6, 45)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Contact Us",
+              "backgroundColor": "rgb(13, 6, 45)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "\"Inter Tight\", sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "webflow-icons",
+          "Inter Tight",
+          "Inter Tight",
+          "Inter Tight",
+          "webflow-icons"
+        ],
+        "fontFaces": [
+          {
+            "family": "webflow-icons",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "data:application/x-font-ttf;charset=utf-8;base64,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"
+            ],
+            "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: 400; font-style: normal; }",
+            "sheetHref": "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css"
+          },
+          {
+            "family": "Inter Tight",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
+            ],
+            "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 400; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf\") format(\"truetype\"); }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          },
+          {
+            "family": "Inter Tight",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf"
+            ],
+            "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 500; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf\") format(\"truetype\"); }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          },
+          {
+            "family": "Inter Tight",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf"
+            ],
+            "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 600; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf\") format(\"truetype\"); }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          },
+          {
+            "family": "webflow-icons",
+            "weight": "normal",
+            "style": "normal",
+            "srcUrls": [
+              "data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg8SBiUAAAC8AAAAYGNtYXDpP+a4AAABHAAAAFxnYXNwAAAAEAAAAXgAAAAIZ2x5ZmhS2XEAAAGAAAADHGhlYWQTFw3HAAAEnAAAADZoaGVhCXYFgQAABNQAAAAkaG10eCe4A1oAAAT4AAAAMGxvY2EDtALGAAAFKAAAABptYXhwABAAPgAABUQAAAAgbmFtZSoCsMsAAAVkAAABznBvc3QAAwAAAAAHNAAAACAAAwP4AZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAABAAADpAwPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAQAAAAAwACAACAAQAAQAg5gPpA//9//8AAAAAACDmAOkA//3//wAB/+MaBBcIAAMAAQAAAAAAAAAAAAAAAAABAAH//wAPAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAABAAAAAAAAAAAAAgAANzkBAAAAAAEBIAAAAyADgAAFAAAJAQcJARcDIP5AQAGA/oBAAcABwED+gP6AQAABAOAAAALgA4AABQAAEwEXCQEH4AHAQP6AAYBAAcABwED+gP6AQAAAAwDAAOADQALAAA8AHwAvAAABISIGHQEUFjMhMjY9ATQmByEiBh0BFBYzITI2PQE0JgchIgYdARQWMyEyNj0BNCYDIP3ADRMTDQJADRMTDf3ADRMTDQJADRMTDf3ADRMTDQJADRMTAsATDSANExMNIA0TwBMNIA0TEw0gDRPAEw0gDRMTDSANEwAAAAABAJ0AtAOBApUABQAACQIHCQEDJP7r/upcAXEBcgKU/usBFVz+fAGEAAAAAAL//f+9BAMDwwAEAAkAABcBJwEXAwE3AQdpA5ps/GZsbAOabPxmbEMDmmz8ZmwDmvxmbAOabAAAAgAA/8AEAAPAAB0AOwAABSInLgEnJjU0Nz4BNzYzMTIXHgEXFhUUBw4BBwYjNTI3PgE3NjU0Jy4BJyYjMSIHDgEHBhUUFx4BFxYzAgBqXV6LKCgoKIteXWpqXV6LKCgoKIteXWpVSktvICEhIG9LSlVVSktvICEhIG9LSlVAKCiLXl1qal1eiygoKCiLXl1qal1eiygoZiEgb0tKVVVKS28gISEgb0tKVVVKS28gIQABAAABwAIAA8AAEgAAEzQ3PgE3NjMxFSIHDgEHBhUxIwAoKIteXWpVSktvICFmAcBqXV6LKChmISBvS0pVAAAAAgAA/8AFtgPAADIAOgAAARYXHgEXFhUUBw4BBwYHIxUhIicuAScmNTQ3PgE3NjMxOAExNDc+ATc2MzIXHgEXFhcVATMJATMVMzUEjD83NlAXFxYXTjU1PQL8kz01Nk8XFxcXTzY1PSIjd1BQWlJJSXInJw3+mdv+2/7c25MCUQYcHFg5OUA/ODlXHBwIAhcXTzY1PTw1Nk8XF1tQUHcjIhwcYUNDTgL+3QFt/pOTkwABAAAAAQAAmM7nP18PPPUACwQAAAAAANciZKUAAAAA1yJkpf/9/70FtgPDAAAACAACAAAAAAAAAAEAAAPA/8AAAAW3//3//QW2AAEAAAAAAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAAAAgAAAAQAASAEAADgBAAAwAQAAJ0EAP/9BAAAAAQAAAAFtwAAAAAAAAAKABQAHgAyAEYAjACiAL4BFgE2AY4AAAABAAAADAA8AAMAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAADgCuAAEAAAAAAAEADQAAAAEAAAAAAAIABwCWAAEAAAAAAAMADQBIAAEAAAAAAAQADQCrAAEAAAAAAAUACwAnAAEAAAAAAAYADQBvAAEAAAAAAAoAGgDSAAMAAQQJAAEAGgANAAMAAQQJAAIADgCdAAMAAQQJAAMAGgBVAAMAAQQJAAQAGgC4AAMAAQQJAAUAFgAyAAMAAQQJAAYAGgB8AAMAAQQJAAoANADsd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzVmVyc2lvbiAxLjAAVgBlAHIAcwBpAG8AbgAgADEALgAwd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzUmVndWxhcgBSAGUAZwB1AGwAYQByd2ViZmxvdy1pY29ucwB3AGUAYgBmAGwAbwB3AC0AaQBjAG8AbgBzRm9udCBnZW5lcmF0ZWQgYnkgSWNvTW9vbi4ARgBvAG4AdAAgAGcAZQBuAGUAcgBhAHQAZQBkACAAYgB5ACAASQBjAG8ATQBvAG8AbgAuAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+            ],
+            "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: normal; font-style: normal; }",
+            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-500-8d044d4775.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4195_Vector-20-3--aaaf9612bc.svg"
+          ],
+          "fonts": [
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf",
+            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 168,
+            "height": 48
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-500-8d044d4775.webp",
+            "srcset": "/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-500-8d044d4775.webp 500w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-800-4b272ee33a.webp 800w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-1080-0c32b21677.webp 1080w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-1600-69e2199668.webp 1600w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-2000-ca631ab696.webp 2000w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-p-2600-3bd1727643.webp 2600w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-202087329895-p-3200-caabca5f58.webp 3200w, /sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/6962200540c0c848e41da49a_Group-2087329895-e01660748b.webp 7520w",
+            "alt": "",
+            "width": 390,
+            "height": 122
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 168,
+            "height": 48
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 8,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 29,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 14,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 55,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 14,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 55,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 14,
+            "height": 14
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "srcset": "",
+            "alt": "",
+            "width": 55,
+            "height": 55
+          },
+          {
+            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
+            "srcset": "",
+            "alt": "",
+            "width": 766,
+            "height": 222
+          }
+        ],
+        "canvases": []
+      }
+    }
+  ]
+}

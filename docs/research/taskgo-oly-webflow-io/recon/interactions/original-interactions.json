@@ -1,0 +1,1911 @@
+{
+  "label": "original",
+  "url": "https://taskgo-oly.webflow.io/",
+  "capturedAt": "2026-11-12T04:52:14.655Z",
+  "initial": {
+    "url": "https://taskgo-oly.webflow.io/",
+    "title": "TaskGo- TaskGo Webflow HTML Website Template",
+    "activeElement": "body",
+    "scrollY": 0,
+    "bodyTextChars": 4764,
+    "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+    "counts": {
+      "dialogs": 0,
+      "popovers": 0,
+      "canvases": 0,
+      "videos": 0,
+      "buttons": 6,
+      "forms": 1
+    },
+    "htmlHash": "-1847110523",
+    "htmlLength": 170818
+  },
+  "discovered": {
+    "interactive": [
+      {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/",
+        "text": "home",
+        "ariaLabel": "home",
+        "safeClick": true,
+        "rect": {
+          "x": 53,
+          "y": 33,
+          "width": 168,
+          "height": 48
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/",
+        "text": "Home Home",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 469,
+          "y": 44,
+          "width": 48,
+          "height": 26
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Features",
+        "text": "Features Features",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 554,
+          "y": 44,
+          "width": 67,
+          "height": 26
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Choose",
+        "text": "Why Choose Why Choose",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 656,
+          "y": 44,
+          "width": 99,
+          "height": 26
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Testimonial",
+        "text": "Testimonial Testimonial",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 792,
+          "y": 44,
+          "width": 87,
+          "height": 26
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Pricing",
+        "text": "Pricing Pricing",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 915,
+          "y": 44,
+          "width": 52,
+          "height": 26
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://webflow.com/templates/designers/olynex-agency",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1216,
+          "y": 30,
+          "width": 157,
+          "height": 53
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#CTA",
+        "text": "Get Started Free",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 530,
+          "y": 430,
+          "width": 183,
+          "height": 67
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#CTA",
+        "text": "Book A Demo",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 733,
+          "y": 429,
+          "width": 161,
+          "height": 69
+        }
+      },
+      {
+        "selector": "#w-tabs-0-data-w-tab-0",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://taskgo-oly.webflow.io/#w-tabs-0-data-w-pane-0",
+        "text": "01 Simple and Fast Setup Sales teams powered by AI for top-notch decision-making",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 743,
+          "y": 3218,
+          "width": 630,
+          "height": 152
+        }
+      },
+      {
+        "selector": "#w-tabs-0-data-w-tab-1",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://taskgo-oly.webflow.io/#w-tabs-0-data-w-pane-1",
+        "text": "02 Work Together Effortlessly Sales teams enhanced by AI for superior decision-making",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 743,
+          "y": 3389,
+          "width": 630,
+          "height": 125
+        }
+      },
+      {
+        "selector": "#w-tabs-0-data-w-tab-2",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://taskgo-oly.webflow.io/#w-tabs-0-data-w-pane-2",
+        "text": "03 Monitor Your Progress AI-enhanced sales teams for exceptional decision-making.",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 743,
+          "y": 3532,
+          "width": 630,
+          "height": 125
+        }
+      },
+      {
+        "selector": "#w-tabs-1-data-w-tab-0",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://taskgo-oly.webflow.io/#w-tabs-1-data-w-pane-0",
+        "text": "Monthly",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 600,
+          "y": 5232,
+          "width": 121,
+          "height": 51
+        }
+      },
+      {
+        "selector": "#w-tabs-1-data-w-tab-1",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://taskgo-oly.webflow.io/#w-tabs-1-data-w-pane-1",
+        "text": "Yearly",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 721,
+          "y": 5232,
+          "width": 104,
+          "height": 51
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#CTA",
+        "text": "Get Started Free",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 181,
+          "y": 5802,
+          "width": 485,
+          "height": 67
+        }
+      },
+      {
+        "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#CTA",
+        "text": "Get Started Free",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 759,
+          "y": 5805,
+          "width": 485,
+          "height": 67
+        }
+      },
+      {
+        "selector": "#email",
+        "tag": "input",
+        "type": "email",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 475,
+          "y": 7526,
+          "width": 320,
+          "height": 38
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(2)",
+        "tag": "input",
+        "type": "submit",
+        "role": "",
+        "href": "",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 795,
+          "y": 7512,
+          "width": 180,
+          "height": 65
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 53,
+          "y": 7844,
+          "width": 389,
+          "height": 27
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/",
+        "text": "Home Home",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 666,
+          "y": 7912,
+          "width": 48,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Features",
+        "text": "Features Features",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 666,
+          "y": 7961,
+          "width": 67,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Choose",
+        "text": "Why Choose Why Choose",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 666,
+          "y": 8010,
+          "width": 99,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Pricing",
+        "text": "Pricing Pricing",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 666,
+          "y": 8059,
+          "width": 52,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Testimonial",
+        "text": "Testimonial Testimonial",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 666,
+          "y": 8108,
+          "width": 87,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/style-guide",
+        "text": "Style Guide Style Guide",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 888,
+          "y": 7912,
+          "width": 88,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/license",
+        "text": "License License",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 888,
+          "y": 7961,
+          "width": 59,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/changelog",
+        "text": "Changelog Changelog",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 888,
+          "y": 8010,
+          "width": 84,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/404",
+        "text": "404 404",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 888,
+          "y": 8059,
+          "width": 32,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/401",
+        "text": "Password Password",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 888,
+          "y": 8108,
+          "width": 76,
+          "height": 29
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "mailto:hello@Devnya.com",
+        "text": "contact@taskgo.com",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1120,
+          "y": 7912,
+          "width": 165,
+          "height": 27
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "tel:(405)555-0128",
+        "text": "+1 (800) 123-4567",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1120,
+          "y": 7959,
+          "width": 143,
+          "height": 27
+        }
+      },
+      {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://maps.google.com/",
+        "text": "4140 Parker Rd. Allentown, New Mexico 31134",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1120,
+          "y": 8006,
+          "width": 253,
+          "height": 54
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://facebook.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 53,
+          "y": 8213,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.instagram.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 104,
+          "y": 8213,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://x.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 155,
+          "y": 8213,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://www.linkedin.com/",
+        "text": "",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 206,
+          "y": 8213,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://webflow.com/templates/designers/olynex-agency",
+        "text": "Olynex",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 662,
+          "y": 8330,
+          "width": 51,
+          "height": 20
+        }
+      },
+      {
+        "selector": "footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://webflow.com/",
+        "text": "Webflow",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 809,
+          "y": 8330,
+          "width": 60,
+          "height": 20
+        }
+      }
+    ],
+    "canvases": []
+  },
+  "actions": [
+    {
+      "type": "scroll",
+      "target": "middle",
+      "ratio": 0.5,
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1862625759",
+        "htmlLength": 170815
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 3731,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1149710735",
+        "htmlLength": 172486
+      },
+      "changed": true,
+      "screenshot": "screenshots\\01-scroll-middle-b04a45f075.png"
+    },
+    {
+      "type": "scroll",
+      "target": "bottom",
+      "ratio": 1,
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1449524519",
+        "htmlLength": 170850
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 8213,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1811529071",
+        "htmlLength": 173356
+      },
+      "changed": true,
+      "screenshot": "screenshots\\02-scroll-bottom-7297e0cbea.png"
+    },
+    {
+      "type": "hover",
+      "target": "home",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/",
+        "text": "home",
+        "ariaLabel": "home",
+        "safeClick": true,
+        "rect": {
+          "x": 53,
+          "y": 33,
+          "width": 168,
+          "height": 48
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "337079135",
+        "htmlLength": 170819
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1094300861",
+        "htmlLength": 170817
+      },
+      "changed": true,
+      "screenshot": "screenshots\\03-hover-home-083a6b5e7f.png"
+    },
+    {
+      "type": "hover",
+      "target": "Home Home",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/",
+        "text": "Home Home",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 469,
+          "y": 44,
+          "width": 48,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1356125567",
+        "htmlLength": 170816
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "2083860431",
+        "htmlLength": 170816
+      },
+      "changed": true,
+      "screenshot": "screenshots\\04-hover-Home-Home-a43361a9ea.png"
+    },
+    {
+      "type": "hover",
+      "target": "Features Features",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Features",
+        "text": "Features Features",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 554,
+          "y": 44,
+          "width": 67,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1336892151",
+        "htmlLength": 170817
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "2065645579",
+        "htmlLength": 170820
+      },
+      "changed": true,
+      "screenshot": "screenshots\\05-hover-Features-Features-681355f0c0.png"
+    },
+    {
+      "type": "hover",
+      "target": "Why Choose Why Choose",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Choose",
+        "text": "Why Choose Why Choose",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 656,
+          "y": 44,
+          "width": 99,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-386962885",
+        "htmlLength": 170816
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1888472511",
+        "htmlLength": 170822
+      },
+      "changed": true,
+      "screenshot": "screenshots\\06-hover-Why-Choose-Why-Choose-b9f3b6b620.png"
+    },
+    {
+      "type": "hover",
+      "target": "Testimonial Testimonial",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Testimonial",
+        "text": "Testimonial Testimonial",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 792,
+          "y": 44,
+          "width": 87,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1644731423",
+        "htmlLength": 170817
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1147740297",
+        "htmlLength": 170790
+      },
+      "changed": true,
+      "screenshot": "screenshots\\07-hover-Testimonial-Testimonial-d95916c302.png"
+    },
+    {
+      "type": "hover",
+      "target": "Pricing Pricing",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Pricing",
+        "text": "Pricing Pricing",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 915,
+          "y": 44,
+          "width": 52,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "938019566",
+        "htmlLength": 170816
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-42004475",
+        "htmlLength": 170822
+      },
+      "changed": true,
+      "screenshot": "screenshots\\08-hover-Pricing-Pricing-c46bbcd102.png"
+    },
+    {
+      "type": "hover",
+      "target": "Contact Us",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://webflow.com/templates/designers/olynex-agency",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "safeClick": false,
+        "rect": {
+          "x": 1216,
+          "y": 30,
+          "width": 157,
+          "height": 53
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1965678080",
+        "htmlLength": 170816
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1679921622",
+        "htmlLength": 170847
+      },
+      "changed": true,
+      "screenshot": "screenshots\\09-hover-Contact-Us-e4d17dbad4.png"
+    },
+    {
+      "type": "hover",
+      "target": "Get Started Free",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#CTA",
+        "text": "Get Started Free",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 530,
+          "y": 430,
+          "width": 183,
+          "height": 67
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-369992989",
+        "htmlLength": 170850
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1764650319",
+        "htmlLength": 170846
+      },
+      "changed": true,
+      "screenshot": "screenshots\\10-hover-Get-Started-Free-8e3bc8a772.png"
+    },
+    {
+      "type": "click",
+      "target": "home",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/",
+        "text": "home",
+        "ariaLabel": "home",
+        "safeClick": true,
+        "rect": {
+          "x": 53,
+          "y": 33,
+          "width": 168,
+          "height": 48
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1475679688",
+        "htmlLength": 170816
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1688654762",
+        "htmlLength": 171860
+      },
+      "changed": true,
+      "screenshot": "screenshots\\11-click-home-da9f1a18c6.png"
+    },
+    {
+      "type": "click",
+      "target": "Home Home",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/",
+        "text": "Home Home",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 469,
+          "y": 44,
+          "width": 48,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1839885255",
+        "htmlLength": 170816
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1861347041",
+        "htmlLength": 171861
+      },
+      "changed": true,
+      "screenshot": "screenshots\\12-click-Home-Home-b836641b4b.png"
+    },
+    {
+      "type": "click",
+      "target": "Features Features",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Features",
+        "text": "Features Features",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 554,
+          "y": 44,
+          "width": 67,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-2130423882",
+        "htmlLength": 170818
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/#Features",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 1111,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1395883569",
+        "htmlLength": 171541
+      },
+      "changed": true,
+      "screenshot": "screenshots\\13-click-Features-Features-f68beb7d68.png"
+    },
+    {
+      "type": "click",
+      "target": "Why Choose Why Choose",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Choose",
+        "text": "Why Choose Why Choose",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 656,
+          "y": 44,
+          "width": 99,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1406651432",
+        "htmlLength": 170817
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/#Choose",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 2273,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1403930265",
+        "htmlLength": 172555
+      },
+      "changed": true,
+      "screenshot": "screenshots\\14-click-Why-Choose-Why-Choose-3caf8ebd3e.png"
+    },
+    {
+      "type": "click",
+      "target": "Testimonial Testimonial",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Testimonial",
+        "text": "Testimonial Testimonial",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 792,
+          "y": 44,
+          "width": 87,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "30638631",
+        "htmlLength": 170816
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/#Testimonial",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 3877,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1241189131",
+        "htmlLength": 172825
+      },
+      "changed": true,
+      "screenshot": "screenshots\\15-click-Testimonial-Testimonial-3a453254be.png"
+    },
+    {
+      "type": "click",
+      "target": "Pricing Pricing",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#Pricing",
+        "text": "Pricing Pricing",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 915,
+          "y": 44,
+          "width": 52,
+          "height": 26
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "651141103",
+        "htmlLength": 170815
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/#Pricing",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 4957,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-978865719",
+        "htmlLength": 173585
+      },
+      "changed": true,
+      "screenshot": "screenshots\\16-click-Pricing-Pricing-d56369b612.png"
+    },
+    {
+      "type": "click",
+      "target": "Get Started Free",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#CTA",
+        "text": "Get Started Free",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 530,
+          "y": 430,
+          "width": 183,
+          "height": 67
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1601047292",
+        "htmlLength": 170816
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/#CTA",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 7900,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "714821524",
+        "htmlLength": 173607
+      },
+      "changed": true,
+      "screenshot": "screenshots\\17-click-Get-Started-Free-13b4fa2b5c.png"
+    },
+    {
+      "type": "click",
+      "target": "Book A Demo",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "meta": {
+        "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "tag": "a",
+        "type": "",
+        "role": "",
+        "href": "https://taskgo-oly.webflow.io/#CTA",
+        "text": "Book A Demo",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 733,
+          "y": 429,
+          "width": 161,
+          "height": 69
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1404341767",
+        "htmlLength": 170850
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/#CTA",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 7900,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "258302632",
+        "htmlLength": 173607
+      },
+      "changed": true,
+      "screenshot": "screenshots\\18-click-Book-A-Demo-612b208cb3.png"
+    },
+    {
+      "type": "click",
+      "target": "01 Simple and Fast Setup Sales teams powered by AI for top-notch decision-making",
+      "selector": "#w-tabs-0-data-w-tab-0",
+      "meta": {
+        "selector": "#w-tabs-0-data-w-tab-0",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://taskgo-oly.webflow.io/#w-tabs-0-data-w-pane-0",
+        "text": "01 Simple and Fast Setup Sales teams powered by AI for top-notch decision-making",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 743,
+          "y": 3218,
+          "width": 630,
+          "height": 152
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1321866800",
+        "htmlLength": 170819
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "a",
+        "scrollY": 2844,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-655145897",
+        "htmlLength": 172888
+      },
+      "changed": true,
+      "screenshot": "screenshots\\19-click-01-Simple-and-Fast-Setup-Sales-teams-powered-by-AI-for-top-notch-decision-making-2d94c51584.png"
+    },
+    {
+      "type": "click",
+      "target": "02 Work Together Effortlessly Sales teams enhanced by AI for superior decision-making",
+      "selector": "#w-tabs-0-data-w-tab-1",
+      "meta": {
+        "selector": "#w-tabs-0-data-w-tab-1",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://taskgo-oly.webflow.io/#w-tabs-0-data-w-pane-1",
+        "text": "02 Work Together Effortlessly Sales teams enhanced by AI for superior decision-making",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 743,
+          "y": 3389,
+          "width": 630,
+          "height": 125
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-718322311",
+        "htmlLength": 170817
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "a",
+        "scrollY": 3001,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-44280258",
+        "htmlLength": 172954
+      },
+      "changed": true,
+      "screenshot": "screenshots\\20-click-02-Work-Together-Effortlessly-Sales-teams-enhanced-by-AI-for-superior-decision-makin-0fef07967e.png"
+    },
+    {
+      "type": "click",
+      "target": "03 Monitor Your Progress AI-enhanced sales teams for exceptional decision-making.",
+      "selector": "#w-tabs-0-data-w-tab-2",
+      "meta": {
+        "selector": "#w-tabs-0-data-w-tab-2",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://taskgo-oly.webflow.io/#w-tabs-0-data-w-pane-2",
+        "text": "03 Monitor Your Progress AI-enhanced sales teams for exceptional decision-making.",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 743,
+          "y": 3532,
+          "width": 630,
+          "height": 125
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "1693071190",
+        "htmlLength": 170818
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "a",
+        "scrollY": 3145,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-757566304",
+        "htmlLength": 173479
+      },
+      "changed": true,
+      "screenshot": "screenshots\\21-click-03-Monitor-Your-Progress-AI-enhanced-sales-teams-for-exceptional-decision-making.-84b023b68f.png"
+    },
+    {
+      "type": "click",
+      "target": "Monthly",
+      "selector": "#w-tabs-1-data-w-tab-0",
+      "meta": {
+        "selector": "#w-tabs-1-data-w-tab-0",
+        "tag": "a",
+        "type": "",
+        "role": "tab",
+        "href": "https://taskgo-oly.webflow.io/#w-tabs-1-data-w-pane-0",
+        "text": "Monthly",
+        "ariaLabel": "",
+        "safeClick": true,
+        "rect": {
+          "x": 600,
+          "y": 5232,
+          "width": 121,
+          "height": 51
+        }
+      },
+      "before": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "body",
+        "scrollY": 0,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "863780668",
+        "htmlLength": 170815
+      },
+      "after": {
+        "url": "https://taskgo-oly.webflow.io/",
+        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "activeElement": "a",
+        "scrollY": 4808,
+        "bodyTextChars": 4764,
+        "bodyTextStart": "Home Home Features Features Why Choose Why Choose Testimonial Testimonial Pricing Pricing Contact Us Simplify Task Management Boost Productivity Easily Manage Tasks And Enhance Productivity From Start To Finish. Get Started Free Book A Demo Endorsed by the globe's leading innovative enterprises. Unlock Premium Benefits With Our Advanced Features. Unlock premium benefits with advanced features designed to scale. Smart Task Organization Create, categorize, and prioritize tasks with ease using flex",
+        "counts": {
+          "dialogs": 0,
+          "popovers": 0,
+          "canvases": 0,
+          "videos": 0,
+          "buttons": 6,
+          "forms": 1
+        },
+        "htmlHash": "-1265404124",
+        "htmlLength": 173483
+      },
+      "changed": true,
+      "screenshot": "screenshots\\22-click-Monthly-0566330eee.png"
+    }
+  ],
+  "network": [],
+  "consoleErrors": [],
+  "findings": [
+    "38 visible interactive candidates discovered",
+    "0 visible canvas targets discovered",
+    "22/22 actions changed DOM, URL, scroll, or visible overlay counts"
+  ]
+}
