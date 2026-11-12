@@ -5,9 +5,9 @@ import "@/components/sites/taskgo-oly-webflow-io/ix3-preload.css";
 import { SiteRuntime } from "@/components/sites/taskgo-oly-webflow-io/SiteRuntime";
 
 export const metadata: Metadata = {
-  title: "TaskGo- TaskGo Webflow HTML Website Template",
+  title: "WebCloner — TaskGo clone showcase",
   description:
-    "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+    "A full-site clone of the TaskGo Webflow template produced with WebCloner by Reivan Elsyafir Pratama.",
   icons: { icon: "/sites/taskgo-oly-webflow-io/favicon.svg" },
 };
 

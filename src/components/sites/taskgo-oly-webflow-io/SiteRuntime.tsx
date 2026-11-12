@@ -396,26 +396,27 @@ function initIx3(): () => void {
       gsap.fromTo(steps, { y: "40%", skewX: 9 }, { y: "0%", skewX: 0, stagger: { each: 0.2 }, ease: "none", scrollTrigger: { trigger: steps[0], start: "90 bottom", end: "bottom 90%", scrub: 0.8 } });
     }
 
-    // i-5d4a73da / i-c356df76: review rows.
-    const byWid = (wid: string) => document.querySelectorAll(`[data-w-id="${wid}"], #w-node-_${wid}-68ae409d`);
+    // i-5d4a73da / i-c356df76: review rows. Webflow targets these by element instance ("wf:inst");
+    // the selectors below are the elements the live runtime resolved (recon/motion/gsap-triggers.json).
+    // Three of them have no id or data-w-id, so they are addressed by class within their row.
     const reviewRow = (trigger: string, scrub: number, end: string, parts: [string, gsap.TweenVars, gsap.TweenVars][]) => {
       const el = document.querySelector(trigger);
       if (!el) return;
       const tl = gsap.timeline({ scrollTrigger: { trigger: el, start: "top 50%", end, scrub } });
-      for (const [wid, from, to] of parts) {
-        const t = byWid(wid);
+      for (const [selector, from, to] of parts) {
+        const t = el.querySelectorAll(selector);
         if (t.length) tl.fromTo(t, from, { ...to, ease: "none", duration: 0.5, stagger: { each: 0.2 } }, 0);
       }
     };
     reviewRow(".review-row-holder", 0.86, "bottom 80%", [
-      ["7f0c34e2-d4b4-3521-f687-2b9d7ab878d2", { opacity: 0.5, scale: 0.8 }, { opacity: 1, scale: 1 }],
-      ["7f0c34e2-d4b4-3521-f687-2b9d7ab878e5", { scale: 1.1, xPercent: -6 }, { scale: 1, xPercent: 0 }],
-      ["7f0c34e2-d4b4-3521-f687-2b9d7ab878ef", { opacity: 0.35, scale: 0.9, skewX: 6 }, { opacity: 1, scale: 1, skewX: 0 }],
+      ["#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878d2-68ae409d", { opacity: 0.5, scale: 0.8 }, { opacity: 1, scale: 1 }],
+      ["#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878e5-68ae409d", { scale: 1.1, xPercent: -6 }, { scale: 1, xPercent: 0 }],
+      [".clinet-image-wrap", { opacity: 0.35, scale: 0.9, skewX: 6 }, { opacity: 1, scale: 1, skewX: 0 }],
     ]);
     reviewRow(".review-02-row-holder", 0.8, "bottom 90%", [
-      ["7f0c34e2-d4b4-3521-f687-2b9d7ab878f2", { opacity: 0.35, scale: 0.9, skewX: 6 }, { opacity: 1, scale: 1, skewX: 1 }],
-      ["7f0c34e2-d4b4-3521-f687-2b9d7ab878f4", { scale: 1.1, rotationX: 40, xPercent: 11 }, { scale: 1, rotationX: 0, xPercent: 0 }],
-      ["7f0c34e2-d4b4-3521-f687-2b9d7ab878fe", { opacity: 0.5, scale: 0.8 }, { opacity: 1, scale: 1 }],
+      [".clinet-bottom-wrap", { opacity: 0.35, scale: 0.9, skewX: 6 }, { opacity: 1, scale: 1, skewX: 1 }],
+      ["#w-node-_7f0c34e2-d4b4-3521-f687-2b9d7ab878f4-68ae409d", { scale: 1.1, rotationX: 40, xPercent: 11 }, { scale: 1, rotationX: 0, xPercent: 0 }],
+      [".review-info-wrap", { opacity: 0.5, scale: 0.8 }, { opacity: 1, scale: 1 }],
     ]);
 
     // i-4c096e3f: every .heading-title, chars opacity 0 -> 1, skewX 30deg -> 0, stagger amount 0.5; top bottom -> bottom 50%.

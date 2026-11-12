@@ -9,7 +9,7 @@ export function PasswordPage() {
         <div className="w-layout-blockcontainer container-big w-container">
           <div className="navbar-wrapper">
             <Link href="/" className="navbar-logo-link w-nav-brand">
-              <img loading="lazy" src="/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg" alt="" className="logo-image" />
+              <img loading="lazy" src="/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-nav.svg" alt="" className="logo-image" />
             </Link>
             <nav role="navigation" className="navbar-menu w-nav-menu">
               <div className="navbar-inner-menu">

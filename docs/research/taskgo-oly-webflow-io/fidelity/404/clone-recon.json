@@ -1,7 +1,7 @@
 {
   "label": "clone",
-  "url": "http://localhost:3130/404",
-  "capturedAt": "2026-11-12T05:12:06.191Z",
+  "url": "http://localhost:3150/404",
+  "capturedAt": "2026-11-12T05:52:55.326Z",
   "console": {
     "errors": [],
     "warnings": [],
@@ -11,19 +11,19 @@
     {
       "viewport": 1440,
       "recovered": false,
-      "url": "http://localhost:3130/404",
+      "url": "http://localhost:3150/404",
       "readyState": "interactive"
     },
     {
       "viewport": 768,
       "recovered": false,
-      "url": "http://localhost:3130/404",
+      "url": "http://localhost:3150/404",
       "readyState": "interactive"
     },
     {
       "viewport": 390,
       "recovered": false,
-      "url": "http://localhost:3130/404",
+      "url": "http://localhost:3150/404",
       "readyState": "interactive"
     }
   ],
@@ -35,8 +35,8 @@
       },
       "screenshot": "screenshots\\clone-1440.png",
       "signals": {
-        "href": "http://localhost:3130/404",
-        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "href": "http://localhost:3150/404",
+        "title": "WebCloner — TaskGo clone showcase",
         "lang": "en",
         "bodyTextChars": 617,
         "scrollHeight": 1792,
@@ -55,7 +55,7 @@
             "text": "Page Not Found!"
           }
         ],
-        "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+        "metaDescription": "A full-site clone of the TaskGo Webflow template produced with WebCloner by Reivan Elsyafir Pratama.",
         "counts": {
           "links": 29,
           "images": 14,
@@ -81,20 +81,20 @@
           "lenis": false
         },
         "scripts": [
-          "http://localhost:3130/_next/static/chunks/2mmpezlrfmbu5.js",
-          "http://localhost:3130/_next/static/chunks/27t_qfc-3_lzs.js",
-          "http://localhost:3130/_next/static/chunks/2e_lrwr-bf1eq.js",
-          "http://localhost:3130/_next/static/chunks/turbopack-17_pvygprndfa.js",
-          "http://localhost:3130/_next/static/chunks/3fntmmi971322.js",
-          "http://localhost:3130/_next/static/chunks/0hvpzkb9nfbmi.js",
-          "http://localhost:3130/_next/static/chunks/22i43cg4l4-dq.js",
-          "http://localhost:3130/_next/static/chunks/0cz1d0mv5g_q7.js",
-          "http://localhost:3130/_next/static/chunks/310vm2bl3xxpt.js"
+          "http://localhost:3150/_next/static/chunks/2mmpezlrfmbu5.js",
+          "http://localhost:3150/_next/static/chunks/27t_qfc-3_lzs.js",
+          "http://localhost:3150/_next/static/chunks/2e_lrwr-bf1eq.js",
+          "http://localhost:3150/_next/static/chunks/turbopack-17_pvygprndfa.js",
+          "http://localhost:3150/_next/static/chunks/3fntmmi971322.js",
+          "http://localhost:3150/_next/static/chunks/3qs2mmmhd0r23.js",
+          "http://localhost:3150/_next/static/chunks/22i43cg4l4-dq.js",
+          "http://localhost:3150/_next/static/chunks/0cz1d0mv5g_q7.js",
+          "http://localhost:3150/_next/static/chunks/310vm2bl3xxpt.js"
         ],
         "stylesheets": [
-          "http://localhost:3130/_next/static/chunks/2rlw6zhjxrp8g.css",
-          "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css",
-          "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          "http://localhost:3150/_next/static/chunks/2rlw6zhjxrp8g.css",
+          "http://localhost:3150/_next/static/chunks/0gypzlax_2dqa.css",
+          "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
         ],
         "sections": [
           {
@@ -791,7 +791,7 @@
               "data:application/x-font-ttf;charset=utf-8;base64,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"
             ],
             "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: 400; font-style: normal; }",
-            "sheetHref": "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css"
+            "sheetHref": "http://localhost:3150/_next/static/chunks/0gypzlax_2dqa.css"
           },
           {
             "family": "Inter Tight",
@@ -801,7 +801,7 @@
               "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
             ],
             "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 400; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf\") format(\"truetype\"); }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           },
           {
             "family": "Inter Tight",
@@ -811,7 +811,7 @@
               "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf"
             ],
             "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 500; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf\") format(\"truetype\"); }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           },
           {
             "family": "Inter Tight",
@@ -821,7 +821,7 @@
               "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf"
             ],
             "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 600; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf\") format(\"truetype\"); }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           },
           {
             "family": "webflow-icons",
@@ -831,127 +831,127 @@
               "data:application/x-font-ttf;charset=utf-8;base64,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"
             ],
             "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: normal; font-style: normal; }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           }
         ],
         "resources": {
           "images": [
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/favicon.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4195_Vector-20-3--aaaf9612bc.svg"
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-nav.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-footer.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-wordmark.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/favicon.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4195_Vector-20-3--aaaf9612bc.svg"
           ],
           "fonts": [
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
           ],
           "media": []
         },
         "images": [
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-nav.svg",
             "srcset": "",
             "alt": "",
             "width": 168,
             "height": 48
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
             "srcset": "",
             "alt": "",
             "width": 151,
             "height": 187
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
             "srcset": "",
             "alt": "",
             "width": 151,
             "height": 192
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
             "srcset": "",
             "alt": "",
             "width": 151,
             "height": 187
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-footer.svg",
             "srcset": "",
             "alt": "",
             "width": 168,
             "height": 48
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
             "srcset": "",
             "alt": "",
             "width": 8,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
             "srcset": "",
             "alt": "",
             "width": 29,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
             "srcset": "",
             "alt": "",
             "width": 14,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
             "srcset": "",
             "alt": "",
             "width": 55,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
             "srcset": "",
             "alt": "",
             "width": 14,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
             "srcset": "",
             "alt": "",
             "width": 55,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
             "srcset": "",
             "alt": "",
             "width": 14,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
             "srcset": "",
             "alt": "",
             "width": 55,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-wordmark.svg",
             "srcset": "",
             "alt": "",
             "width": 766,
@@ -968,8 +968,8 @@
       },
       "screenshot": "screenshots\\clone-768.png",
       "signals": {
-        "href": "http://localhost:3130/404",
-        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "href": "http://localhost:3150/404",
+        "title": "WebCloner — TaskGo clone showcase",
         "lang": "en",
         "bodyTextChars": 516,
         "scrollHeight": 1823,
@@ -988,7 +988,7 @@
             "text": "Page Not Found!"
           }
         ],
-        "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+        "metaDescription": "A full-site clone of the TaskGo Webflow template produced with WebCloner by Reivan Elsyafir Pratama.",
         "counts": {
           "links": 29,
           "images": 14,
@@ -1014,20 +1014,20 @@
           "lenis": false
         },
         "scripts": [
-          "http://localhost:3130/_next/static/chunks/2mmpezlrfmbu5.js",
-          "http://localhost:3130/_next/static/chunks/27t_qfc-3_lzs.js",
-          "http://localhost:3130/_next/static/chunks/2e_lrwr-bf1eq.js",
-          "http://localhost:3130/_next/static/chunks/turbopack-17_pvygprndfa.js",
-          "http://localhost:3130/_next/static/chunks/3fntmmi971322.js",
-          "http://localhost:3130/_next/static/chunks/0hvpzkb9nfbmi.js",
-          "http://localhost:3130/_next/static/chunks/22i43cg4l4-dq.js",
-          "http://localhost:3130/_next/static/chunks/0cz1d0mv5g_q7.js",
-          "http://localhost:3130/_next/static/chunks/310vm2bl3xxpt.js"
+          "http://localhost:3150/_next/static/chunks/2mmpezlrfmbu5.js",
+          "http://localhost:3150/_next/static/chunks/27t_qfc-3_lzs.js",
+          "http://localhost:3150/_next/static/chunks/2e_lrwr-bf1eq.js",
+          "http://localhost:3150/_next/static/chunks/turbopack-17_pvygprndfa.js",
+          "http://localhost:3150/_next/static/chunks/3fntmmi971322.js",
+          "http://localhost:3150/_next/static/chunks/3qs2mmmhd0r23.js",
+          "http://localhost:3150/_next/static/chunks/22i43cg4l4-dq.js",
+          "http://localhost:3150/_next/static/chunks/0cz1d0mv5g_q7.js",
+          "http://localhost:3150/_next/static/chunks/310vm2bl3xxpt.js"
         ],
         "stylesheets": [
-          "http://localhost:3130/_next/static/chunks/2rlw6zhjxrp8g.css",
-          "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css",
-          "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          "http://localhost:3150/_next/static/chunks/2rlw6zhjxrp8g.css",
+          "http://localhost:3150/_next/static/chunks/0gypzlax_2dqa.css",
+          "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
         ],
         "sections": [
           {
@@ -1724,7 +1724,7 @@
               "data:application/x-font-ttf;charset=utf-8;base64,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"
             ],
             "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: 400; font-style: normal; }",
-            "sheetHref": "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css"
+            "sheetHref": "http://localhost:3150/_next/static/chunks/0gypzlax_2dqa.css"
           },
           {
             "family": "Inter Tight",
@@ -1734,7 +1734,7 @@
               "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
             ],
             "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 400; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf\") format(\"truetype\"); }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           },
           {
             "family": "Inter Tight",
@@ -1744,7 +1744,7 @@
               "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf"
             ],
             "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 500; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf\") format(\"truetype\"); }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           },
           {
             "family": "Inter Tight",
@@ -1754,7 +1754,7 @@
               "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf"
             ],
             "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 600; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf\") format(\"truetype\"); }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           },
           {
             "family": "webflow-icons",
@@ -1764,126 +1764,126 @@
               "data:application/x-font-ttf;charset=utf-8;base64,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"
             ],
             "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: normal; font-style: normal; }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           }
         ],
         "resources": {
           "images": [
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4195_Vector-20-3--aaaf9612bc.svg"
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-nav.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-footer.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-wordmark.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4195_Vector-20-3--aaaf9612bc.svg"
           ],
           "fonts": [
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
           ],
           "media": []
         },
         "images": [
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-nav.svg",
             "srcset": "",
             "alt": "",
             "width": 168,
             "height": 48
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
             "srcset": "",
             "alt": "",
             "width": 151,
             "height": 187
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
             "srcset": "",
             "alt": "",
             "width": 151,
             "height": 192
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
             "srcset": "",
             "alt": "",
             "width": 151,
             "height": 187
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-footer.svg",
             "srcset": "",
             "alt": "",
             "width": 168,
             "height": 48
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
             "srcset": "",
             "alt": "",
             "width": 8,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
             "srcset": "",
             "alt": "",
             "width": 29,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
             "srcset": "",
             "alt": "",
             "width": 14,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
             "srcset": "",
             "alt": "",
             "width": 55,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
             "srcset": "",
             "alt": "",
             "width": 14,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
             "srcset": "",
             "alt": "",
             "width": 55,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
             "srcset": "",
             "alt": "",
             "width": 14,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
             "srcset": "",
             "alt": "",
             "width": 55,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-wordmark.svg",
             "srcset": "",
             "alt": "",
             "width": 766,
@@ -1900,8 +1900,8 @@
       },
       "screenshot": "screenshots\\clone-390.png",
       "signals": {
-        "href": "http://localhost:3130/404",
-        "title": "TaskGo- TaskGo Webflow HTML Website Template",
+        "href": "http://localhost:3150/404",
+        "title": "WebCloner — TaskGo clone showcase",
         "lang": "en",
         "bodyTextChars": 516,
         "scrollHeight": 1602,
@@ -1920,7 +1920,7 @@
             "text": "Page Not Found!"
           }
         ],
-        "metaDescription": "TaskGo helps teams manage tasks, customers, and workflows more efficiently with an all-in-one CRM built for speed, clarity, collaboration, and scalable growth.",
+        "metaDescription": "A full-site clone of the TaskGo Webflow template produced with WebCloner by Reivan Elsyafir Pratama.",
         "counts": {
           "links": 29,
           "images": 14,
@@ -1946,20 +1946,20 @@
           "lenis": false
         },
         "scripts": [
-          "http://localhost:3130/_next/static/chunks/2mmpezlrfmbu5.js",
-          "http://localhost:3130/_next/static/chunks/27t_qfc-3_lzs.js",
-          "http://localhost:3130/_next/static/chunks/2e_lrwr-bf1eq.js",
-          "http://localhost:3130/_next/static/chunks/turbopack-17_pvygprndfa.js",
-          "http://localhost:3130/_next/static/chunks/3fntmmi971322.js",
-          "http://localhost:3130/_next/static/chunks/0hvpzkb9nfbmi.js",
-          "http://localhost:3130/_next/static/chunks/22i43cg4l4-dq.js",
-          "http://localhost:3130/_next/static/chunks/0cz1d0mv5g_q7.js",
-          "http://localhost:3130/_next/static/chunks/310vm2bl3xxpt.js"
+          "http://localhost:3150/_next/static/chunks/2mmpezlrfmbu5.js",
+          "http://localhost:3150/_next/static/chunks/27t_qfc-3_lzs.js",
+          "http://localhost:3150/_next/static/chunks/2e_lrwr-bf1eq.js",
+          "http://localhost:3150/_next/static/chunks/turbopack-17_pvygprndfa.js",
+          "http://localhost:3150/_next/static/chunks/3fntmmi971322.js",
+          "http://localhost:3150/_next/static/chunks/3qs2mmmhd0r23.js",
+          "http://localhost:3150/_next/static/chunks/22i43cg4l4-dq.js",
+          "http://localhost:3150/_next/static/chunks/0cz1d0mv5g_q7.js",
+          "http://localhost:3150/_next/static/chunks/310vm2bl3xxpt.js"
         ],
         "stylesheets": [
-          "http://localhost:3130/_next/static/chunks/2rlw6zhjxrp8g.css",
-          "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css",
-          "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+          "http://localhost:3150/_next/static/chunks/2rlw6zhjxrp8g.css",
+          "http://localhost:3150/_next/static/chunks/0gypzlax_2dqa.css",
+          "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
         ],
         "sections": [
           {
@@ -2656,7 +2656,7 @@
               "data:application/x-font-ttf;charset=utf-8;base64,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"
             ],
             "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: 400; font-style: normal; }",
-            "sheetHref": "http://localhost:3130/_next/static/chunks/0gypzlax_2dqa.css"
+            "sheetHref": "http://localhost:3150/_next/static/chunks/0gypzlax_2dqa.css"
           },
           {
             "family": "Inter Tight",
@@ -2666,7 +2666,7 @@
               "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
             ],
             "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 400; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf\") format(\"truetype\"); }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           },
           {
             "family": "Inter Tight",
@@ -2676,7 +2676,7 @@
               "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf"
             ],
             "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 500; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-aWy5X-901cfb83cf.ttf\") format(\"truetype\"); }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           },
           {
             "family": "Inter Tight",
@@ -2686,7 +2686,7 @@
               "fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf"
             ],
             "cssText": "@font-face { font-family: \"Inter Tight\"; font-style: normal; font-weight: 600; src: url(\"fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf\") format(\"truetype\"); }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           },
           {
             "family": "webflow-icons",
@@ -2696,126 +2696,126 @@
               "data:application/x-font-ttf;charset=utf-8;base64,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"
             ],
             "cssText": "@font-face { font-family: webflow-icons; src: url(\"data:application/x-font-ttf;charset=utf-8;base64,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\") format(\"truetype\"); font-weight: normal; font-style: normal; }",
-            "sheetHref": "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.css"
+            "sheetHref": "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.css"
           }
         ],
         "resources": {
           "images": [
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4195_Vector-20-3--aaaf9612bc.svg"
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-nav.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-footer.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-wordmark.svg",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4195_Vector-20-3--aaaf9612bc.svg"
           ],
           "fonts": [
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf",
-            "http://localhost:3130/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiaWy5X-bfbebb311d.ttf",
+            "http://localhost:3150/sites/taskgo-oly-webflow-io/fonts/fonts.gstatic.com/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aWy5X-b16e118012.ttf"
           ],
           "media": []
         },
         "images": [
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c8defd2d1925285937c97_Frame-209-e787dfe573.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-nav.svg",
             "srcset": "",
             "alt": "",
             "width": 168,
             "height": 48
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
             "srcset": "",
             "alt": "",
             "width": 151,
             "height": 187
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae418c_Vector-20-1--1b8fbeef1f.svg",
             "srcset": "",
             "alt": "",
             "width": 151,
             "height": 192
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695c7d712c7a871e68ae4190_Vector-20-2--769dde29a9.svg",
             "srcset": "",
             "alt": "",
             "width": 151,
             "height": 187
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-footer.svg",
             "srcset": "",
             "alt": "",
             "width": 168,
             "height": 48
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6df534d2b8d2c3abbd9b_Group-4bfe6db638.svg",
             "srcset": "",
             "alt": "",
             "width": 8,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f762128d571edde554ae6_Group-20-2--2dd495f972.webp",
             "srcset": "",
             "alt": "",
             "width": 29,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6cd2a2762f55823f9013_Group-2068-f9988a67d0.svg",
             "srcset": "",
             "alt": "",
             "width": 14,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f7286352b127d5221b945_Group-2068-31e42379ea.webp",
             "srcset": "",
             "alt": "",
             "width": 55,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6dc9351fb1ebebfc66a0_s0-201-f5ba3b2de6.svg",
             "srcset": "",
             "alt": "",
             "width": 14,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75a3f137a9379aaf7fe5_s0-201-8ec6ef1d99.webp",
             "srcset": "",
             "alt": "",
             "width": 55,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f6d1c86cb29c0942a0ac8_Vector-20-2--761c264122.svg",
             "srcset": "",
             "alt": "",
             "width": 14,
             "height": 14
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695f75b5766a77285730b33e_sPath-200-201-eb955a7b42.webp",
             "srcset": "",
             "alt": "",
             "width": 55,
             "height": 55
           },
           {
-            "src": "http://localhost:3130/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg",
+            "src": "http://localhost:3150/sites/taskgo-oly-webflow-io/webcloner/webcloner-wordmark.svg",
             "srcset": "",
             "alt": "",
             "width": 766,

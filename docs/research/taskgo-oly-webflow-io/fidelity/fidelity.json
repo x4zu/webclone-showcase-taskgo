@@ -1,6 +1,6 @@
 {
   "origin": "https://taskgo-oly.webflow.io",
-  "local": "http://localhost:3130",
+  "local": "http://localhost:3150",
   "minFidelity": 90,
   "widths": [
     1440,
@@ -16,27 +16,27 @@
         {
           "width": 1440,
           "pass": true,
-          "fidelityPct": 97.91,
-          "score": 4.5,
-          "meanAbsDiff": 0.006848569112835508,
-          "heightDriftPct": 0,
+          "fidelityPct": 93.2,
+          "score": 4,
+          "meanAbsDiff": 0.02394970965877446,
+          "heightDriftPct": 0.7,
           "diff": "home\\screenshots\\visual-diff-1440.png"
         },
         {
           "width": 768,
           "pass": true,
-          "fidelityPct": 98.98,
+          "fidelityPct": 98.89,
           "score": 4.5,
-          "meanAbsDiff": 0.002071185247170735,
+          "meanAbsDiff": 0.002419341738950189,
           "heightDriftPct": 0,
           "diff": "home\\screenshots\\visual-diff-768.png"
         },
         {
           "width": 390,
           "pass": true,
-          "fidelityPct": 98.42,
+          "fidelityPct": 98.31,
           "score": 4.5,
-          "meanAbsDiff": 0.0028905003145866933,
+          "meanAbsDiff": 0.003276485599973182,
           "heightDriftPct": 0,
           "diff": "home\\screenshots\\visual-diff-390.png"
         }
@@ -50,27 +50,27 @@
         {
           "width": 1440,
           "pass": true,
-          "fidelityPct": 99.68,
+          "fidelityPct": 99.61,
           "score": 5,
-          "meanAbsDiff": 0.0005731517407906394,
+          "meanAbsDiff": 0.0010772731889560976,
           "heightDriftPct": 0,
           "diff": "style-guide\\screenshots\\visual-diff-1440.png"
         },
         {
           "width": 768,
           "pass": true,
-          "fidelityPct": 99.43,
+          "fidelityPct": 99.31,
           "score": 5,
-          "meanAbsDiff": 0.0009596151491949228,
+          "meanAbsDiff": 0.0018429215026473866,
           "heightDriftPct": 0,
           "diff": "style-guide\\screenshots\\visual-diff-768.png"
         },
         {
           "width": 390,
           "pass": true,
-          "fidelityPct": 99.02,
-          "score": 5,
-          "meanAbsDiff": 0.0016755670638236575,
+          "fidelityPct": 98.86,
+          "score": 4.5,
+          "meanAbsDiff": 0.0024702495753586465,
           "heightDriftPct": 0,
           "diff": "style-guide\\screenshots\\visual-diff-390.png"
         }
@@ -84,27 +84,27 @@
         {
           "width": 1440,
           "pass": true,
-          "fidelityPct": 99.38,
+          "fidelityPct": 99.22,
           "score": 5,
-          "meanAbsDiff": 0.0012078489479510793,
+          "meanAbsDiff": 0.002304009572946235,
           "heightDriftPct": 0,
           "diff": "license\\screenshots\\visual-diff-1440.png"
         },
         {
           "width": 768,
           "pass": true,
-          "fidelityPct": 99.04,
-          "score": 5,
-          "meanAbsDiff": 0.0017059421136633775,
+          "fidelityPct": 98.78,
+          "score": 4.5,
+          "meanAbsDiff": 0.003544860871625423,
           "heightDriftPct": 0,
           "diff": "license\\screenshots\\visual-diff-768.png"
         },
         {
           "width": 390,
           "pass": true,
-          "fidelityPct": 97.97,
+          "fidelityPct": 97.58,
           "score": 4.5,
-          "meanAbsDiff": 0.0035597867621824306,
+          "meanAbsDiff": 0.005478906692356426,
           "heightDriftPct": 0,
           "diff": "license\\screenshots\\visual-diff-390.png"
         }
@@ -118,27 +118,27 @@
         {
           "width": 1440,
           "pass": true,
-          "fidelityPct": 99.57,
+          "fidelityPct": 99.38,
           "score": 5,
-          "meanAbsDiff": 0.0008755131284284155,
+          "meanAbsDiff": 0.0022564000100972668,
           "heightDriftPct": 0,
           "diff": "changelog\\screenshots\\visual-diff-1440.png"
         },
         {
           "width": 768,
           "pass": true,
-          "fidelityPct": 99.35,
+          "fidelityPct": 99.01,
           "score": 5,
-          "meanAbsDiff": 0.0011766454372151033,
+          "meanAbsDiff": 0.003695406887506371,
           "heightDriftPct": 0,
           "diff": "changelog\\screenshots\\visual-diff-768.png"
         },
         {
           "width": 390,
           "pass": true,
-          "fidelityPct": 98.74,
+          "fidelityPct": 98.21,
           "score": 4.5,
-          "meanAbsDiff": 0.0023081687845236884,
+          "meanAbsDiff": 0.004923610905733474,
           "heightDriftPct": 0,
           "diff": "changelog\\screenshots\\visual-diff-390.png"
         }
@@ -152,27 +152,27 @@
         {
           "width": 1440,
           "pass": true,
-          "fidelityPct": 99.54,
+          "fidelityPct": 99.32,
           "score": 5,
-          "meanAbsDiff": 0.0007751504870323425,
+          "meanAbsDiff": 0.0023434805056335188,
           "heightDriftPct": 0,
           "diff": "401\\screenshots\\visual-diff-1440.png"
         },
         {
           "width": 768,
           "pass": true,
-          "fidelityPct": 99.34,
+          "fidelityPct": 99.01,
           "score": 5,
-          "meanAbsDiff": 0.0010553862046542,
+          "meanAbsDiff": 0.0035289102080703766,
           "heightDriftPct": 0,
           "diff": "401\\screenshots\\visual-diff-768.png"
         },
         {
           "width": 390,
           "pass": true,
-          "fidelityPct": 98.75,
+          "fidelityPct": 98.27,
           "score": 4.5,
-          "meanAbsDiff": 0.0020272778933102748,
+          "meanAbsDiff": 0.004463345141341748,
           "heightDriftPct": 0,
           "diff": "401\\screenshots\\visual-diff-390.png"
         }
@@ -186,27 +186,27 @@
         {
           "width": 1440,
           "pass": true,
-          "fidelityPct": 99.61,
+          "fidelityPct": 99.42,
           "score": 5,
-          "meanAbsDiff": 0.0007393874433451193,
+          "meanAbsDiff": 0.002125679156216353,
           "heightDriftPct": 0,
           "diff": "404\\screenshots\\visual-diff-1440.png"
         },
         {
           "width": 768,
           "pass": true,
-          "fidelityPct": 99.47,
+          "fidelityPct": 99.16,
           "score": 5,
-          "meanAbsDiff": 0.0008691059277065008,
+          "meanAbsDiff": 0.0031560055854043686,
           "heightDriftPct": 0,
           "diff": "404\\screenshots\\visual-diff-768.png"
         },
         {
           "width": 390,
           "pass": true,
-          "fidelityPct": 98.89,
+          "fidelityPct": 98.39,
           "score": 4.5,
-          "meanAbsDiff": 0.0019037618888905652,
+          "meanAbsDiff": 0.0044211154483245,
           "heightDriftPct": 0,
           "diff": "404\\screenshots\\visual-diff-390.png"
         }

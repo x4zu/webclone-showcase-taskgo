@@ -7,7 +7,7 @@ export function Choose() {
       <div className="w-layout-blockcontainer container-big w-container">
         <div className="heading-wraper">
           <h2 className="heading-title">
-            Why Teams Choose TaskGo
+            Why Teams Choose WebCloner
           </h2>
           <div data-w-id="396c73c7-3691-1097-cda7-767c41e901f3" style={{ opacity: "0" }} className="subheading-wrap chosse">
             <p className="paragraph-large center">

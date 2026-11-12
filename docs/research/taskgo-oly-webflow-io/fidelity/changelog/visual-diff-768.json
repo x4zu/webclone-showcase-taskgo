@@ -12,13 +12,13 @@
     "height": 1650
   },
   "threshold": 0.08,
-  "changedPixels": 8226,
+  "changedPixels": 12588,
   "totalPixels": 1267200,
-  "diffPixelRatio": 0.006491477272727273,
-  "meanAbsDiff": 0.0011766454372151033,
-  "rmse": 0.013730624623224354,
+  "diffPixelRatio": 0.009933712121212121,
+  "meanAbsDiff": 0.003695406887506371,
+  "rmse": 0.030225978206778383,
   "visualScore": 5,
-  "fidelityPct": 99.35,
+  "fidelityPct": 99.01,
   "heightDriftPct": 0,
   "files": {
     "original": "C:\\Users\\habir\\Documents\\ShowcaseWebClone\\taskgo-oly-webflow-io-clone\\docs\\research\\taskgo-oly-webflow-io\\fidelity\\changelog\\screenshots\\original-768.png",

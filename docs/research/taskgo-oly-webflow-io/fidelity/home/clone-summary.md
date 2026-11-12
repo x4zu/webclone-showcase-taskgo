@@ -1,7 +1,7 @@
 # clone recon
 
-- URL: http://localhost:3130/
-- Title: TaskGo- TaskGo Webflow HTML Website Template
+- URL: http://localhost:3150/
+- Title: WebCloner — TaskGo clone showcase
 - Lang: en
 - Viewports: 1440, 768, 390
 - Framework signals: next
@@ -23,7 +23,7 @@
 - @font-face rules: 5; font files: 2
 
 ## Assets
-- Image resources loaded: 53 (run asset-harvest to download ALL of them)
+- Image resources loaded: 54 (run asset-harvest to download ALL of them)
 
 ## Screenshots
 - 1440: screenshots\clone-1440.png

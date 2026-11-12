@@ -10,7 +10,7 @@ export function Footer() {
           <div className="footer-inner">
             <div className="footer-left-block">
               <Link href="/" data-w-id="3e6e97ad-8899-3294-fe20-bac010eeebe3" aria-current="page" className="footer-logo-link w-nav-brand w--current">
-                <img loading="lazy" src="/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg" alt="" className="footer-logo-image" />
+                <img loading="lazy" src="/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-footer.svg" alt="" className="footer-logo-image" />
               </Link>
               <div data-w-id="3e6e97ad-8899-3294-fe20-bac010eeebe5" className="footer-sub-wrap">
                 <div className="from-title">
@@ -170,7 +170,7 @@ export function Footer() {
               </a>
             </div>
             <div className="footer-title">
-              <img data-w-id="3e6e97ad-8899-3294-fe20-bac010eeec54" loading="lazy" alt="" src="/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo-c205bd22b1.svg" className="footer-image" />
+              <img data-w-id="3e6e97ad-8899-3294-fe20-bac010eeec54" loading="lazy" alt="" src="/sites/taskgo-oly-webflow-io/webcloner/webcloner-wordmark.svg" className="footer-image" />
             </div>
           </div>
           <div data-w-id="3e6e97ad-8899-3294-fe20-bac010eeec59" className="made-by-section">

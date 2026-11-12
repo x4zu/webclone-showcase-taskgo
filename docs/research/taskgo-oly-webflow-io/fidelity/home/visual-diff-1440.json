@@ -5,21 +5,22 @@
   },
   "clone": {
     "width": 1440,
-    "height": 9259
+    "height": 9324
   },
   "comparedCanvas": {
     "width": 1440,
-    "height": 9259
+    "height": 9324
   },
   "threshold": 0.08,
-  "changedPixels": 279206,
-  "totalPixels": 13332960,
-  "diffPixelRatio": 0.020941036349017773,
-  "meanAbsDiff": 0.006848569112835508,
-  "rmse": 0.04538248931423996,
-  "visualScore": 4.5,
-  "fidelityPct": 97.91,
-  "heightDriftPct": 0,
+  "changedPixels": 913676,
+  "totalPixels": 13426560,
+  "diffPixelRatio": 0.06804989513322847,
+  "meanAbsDiff": 0.02394970965877446,
+  "rmse": 0.08377904889187192,
+  "visualScore": 4,
+  "fidelityPct": 93.2,
+  "heightMismatch": "9259px source vs 9324px clone",
+  "heightDriftPct": 0.7,
   "files": {
     "original": "C:\\Users\\habir\\Documents\\ShowcaseWebClone\\taskgo-oly-webflow-io-clone\\docs\\research\\taskgo-oly-webflow-io\\fidelity\\home\\screenshots\\original-1440.png",
     "clone": "C:\\Users\\habir\\Documents\\ShowcaseWebClone\\taskgo-oly-webflow-io-clone\\docs\\research\\taskgo-oly-webflow-io\\fidelity\\home\\screenshots\\clone-1440.png",

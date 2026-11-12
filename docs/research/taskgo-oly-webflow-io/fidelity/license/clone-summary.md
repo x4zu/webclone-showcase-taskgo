@@ -1,7 +1,7 @@
 # clone recon
 
-- URL: http://localhost:3130/license
-- Title: TaskGo- TaskGo Webflow HTML Website Template
+- URL: http://localhost:3150/license
+- Title: WebCloner — TaskGo clone showcase
 - Lang: en
 - Viewports: 1440, 768, 390
 - Framework signals: next

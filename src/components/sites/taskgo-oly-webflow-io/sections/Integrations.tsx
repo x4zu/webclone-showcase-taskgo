@@ -67,7 +67,7 @@ export function Integrations() {
               <div className="coin-glow _08"></div>
             </div>
           </div>
-          <img src="/sites/taskgo-oly-webflow-io/images/cdn.prod.website-files.com/695e4369ebbba91ab0ed8bb8_Frame-2055-3c4d4565c5.svg" loading="lazy" style={{ WebkitTransform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", MozTransform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", msTransform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", transform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" }} data-w-id="c596b80d-3303-6041-678c-347ac681f32a" alt="" className="tools-center-image" />
+          <img src="/sites/taskgo-oly-webflow-io/webcloner/webcloner-logo-footer.svg" loading="lazy" style={{ WebkitTransform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", MozTransform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", msTransform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", transform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" }} data-w-id="c596b80d-3303-6041-678c-347ac681f32a" alt="" className="tools-center-image" />
         </div>
       </div>
     </section>

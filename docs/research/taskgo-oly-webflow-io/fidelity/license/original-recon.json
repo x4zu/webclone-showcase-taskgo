@@ -1,7 +1,7 @@
 {
   "label": "original",
   "url": "https://taskgo-oly.webflow.io/license",
-  "capturedAt": "2026-11-12T05:09:44.221Z",
+  "capturedAt": "2026-11-12T05:50:31.304Z",
   "console": {
     "errors": [],
     "warnings": [],
@@ -858,18 +858,18 @@
         ],
         "resources": {
           "images": [
-            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/6962200540c0c848e41da49a_Group%202087329895-p-1600.webp",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695c8defd2d1925285937c97_Frame%209.svg",
-            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695e4369ebbba91ab0ed8bb8_Frame%2055.svg",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6df534d2b8d2c3abbd9b_Group.svg",
+            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695e4369ebbba91ab0ed8bb8_Frame%2055.svg",
+            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/6962200540c0c848e41da49a_Group%202087329895-p-1600.webp",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f762128d571edde554ae6_Group%20(2).webp",
+            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6dc9351fb1ebebfc66a0_s0%201.svg",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6cd2a2762f55823f9013_Group%2068.svg",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f7286352b127d5221b945_Group%2068.webp",
-            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6dc9351fb1ebebfc66a0_s0%201.svg",
-            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6d1c86cb29c0942a0ac8_Vector%20(2).svg",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f75a3f137a9379aaf7fe5_s0%201.webp",
-            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f75b5766a77285730b33e_sPath%200%201.webp",
+            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6d1c86cb29c0942a0ac8_Vector%20(2).svg",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo.svg",
+            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f75b5766a77285730b33e_sPath%200%201.webp",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695c7e3659ed78f576ec9cde_Frame%201249187580.svg"
           ],
           "fonts": [],
@@ -2733,12 +2733,12 @@
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695c8defd2d1925285937c97_Frame%209.svg",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695e4369ebbba91ab0ed8bb8_Frame%2055.svg",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6df534d2b8d2c3abbd9b_Group.svg",
-            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f762128d571edde554ae6_Group%20(2).webp",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6cd2a2762f55823f9013_Group%2068.svg",
+            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f762128d571edde554ae6_Group%20(2).webp",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f7286352b127d5221b945_Group%2068.webp",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6dc9351fb1ebebfc66a0_s0%201.svg",
-            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f75a3f137a9379aaf7fe5_s0%201.webp",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f6d1c86cb29c0942a0ac8_Vector%20(2).svg",
+            "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f75a3f137a9379aaf7fe5_s0%201.webp",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/695f75b5766a77285730b33e_sPath%200%201.webp",
             "https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/696cf4b5e9833d99ee28dae7_625443c1a98275c71d382d31635332d4_TaskGo.svg"
           ],

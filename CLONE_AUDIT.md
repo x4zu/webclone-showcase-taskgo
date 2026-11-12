@@ -1,8 +1,8 @@
 # Clone Audit
 
 - Project: C:\Users\habir\Documents\ShowcaseWebClone\taskgo-oly-webflow-io-clone
-- Scanned files: 79
-- Findings: 26
+- Scanned files: 83
+- Findings: 32
 
 ## Fidelity defects (fonts / images / colors)
 - None found
@@ -28,6 +28,12 @@
 - next-env.d.ts:7 · external URL · `https://nextjs.org/docs/app/api-reference/config/typescript`
 - public\sites\taskgo-oly-webflow-io\css\cdn.prod.website-files.com\taskgo-oly.webflow.shared.29351e249-670aa59425.css:2264 · external URL · `https://cdn.prod.website-files.com/695c7d712c7a871e68ae40b0/696752fd5cd3f949e14d1230_Group%202087329803.svg`
 - public\sites\taskgo-oly-webflow-io\fonts\fonts.css:1 · external URL · `https://fonts.googleapis.com/css?family=Inter+Tight:regular,500,600`
+- README.md:5 · external URL · `https://taskgo-oly.webflow.io/`
+- README.md:5 · external URL · `https://github.com/x4zu/WebCloner`
+- README.md:5 · external URL · `https://www.x2zu.net/`
+- README.md:15 · external URL · `https://taskgo-oly.webflow.io/',`
+- README.md:93 · external URL · `http://localhost:3000`
+- README.md:122 · external URL · `https://www.x2zu.net/`
 - src\components\sites\taskgo-oly-webflow-io\Footer.tsx:131 · external URL · `https://maps.google.com/`
 - src\components\sites\taskgo-oly-webflow-io\Footer.tsx:147 · external URL · `https://Facebook.com`
 - src\components\sites\taskgo-oly-webflow-io\Footer.tsx:153 · external URL · `https://www.instagram.com/`
